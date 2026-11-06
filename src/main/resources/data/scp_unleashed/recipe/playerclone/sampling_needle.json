@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "  N",
+    " G ",
+    "N  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sampling_needle"
+  }
+}

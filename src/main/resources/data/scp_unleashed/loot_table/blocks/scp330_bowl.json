@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp330_bowl",
+          "functions": [
+            {
+              "function": "minecraft:copy_components",
+              "source": "block_entity",
+              "include": [
+                "scp_unleashed:scp330_memory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "scp_unleashed:blocks/scp330_bowl"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "scp_unleashed:scp3008_particleboard"
+    }
+  },
+  "pattern": [
+    "B",
+    "B"
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:scp3008_plywood"
+  }
+}

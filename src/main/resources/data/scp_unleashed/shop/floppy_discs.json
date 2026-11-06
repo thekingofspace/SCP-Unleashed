@@ -1,0 +1,12 @@
+{
+  "kind": "item",
+  "item": {
+    "id": "scp_unleashed:floppy_disc",
+    "count": 4
+  },
+  "price": 20,
+  "description": {
+    "translate": "shop.scp_unleashed.floppy_discs.description"
+  },
+  "order": 230
+}

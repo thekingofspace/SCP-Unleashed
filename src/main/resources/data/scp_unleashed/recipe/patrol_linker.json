@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    }
+  },
+  "pattern": [
+    " W",
+    "C ",
+    "S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:patrol_linker"
+  }
+}

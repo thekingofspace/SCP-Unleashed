@@ -1,0 +1,33 @@
+{
+  "type": "scp_unleashed:gun_crafting",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:gun_receiver",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:long_barrel",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:firing_mechanism",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:gun_stock",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:gun_magazine",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:sniper_scope",
+      "count": 1
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sniper_rifle"
+  }
+}

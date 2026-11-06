@@ -1,0 +1,59 @@
+{
+  "has_precipitation": false,
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "effects": {
+    "sky_color": 14725746,
+    "fog_color": 15122308,
+    "water_color": 11569232,
+    "water_fog_color": 6965792,
+    "grass_color": 15781752,
+    "foliage_color": 10521170,
+    "ambient_sound": "scp_unleashed:scp093_ambient_loop",
+    "additions_sound": {
+      "sound": "scp_unleashed:scp093_wind",
+      "tick_chance": 0.0085
+    },
+    "mood_sound": {
+      "sound": "scp_unleashed:scp093_mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.0018
+    }
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "scp_unleashed:scp093_dry_grass_sparse",
+      "scp_unleashed:scp093_dead_bush_dense",
+      "scp_unleashed:scp093_pole_rare",
+      "scp_unleashed:scp093_snag"
+    ]
+  ]
+}

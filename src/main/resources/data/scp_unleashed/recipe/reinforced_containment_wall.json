@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "tag": "c:concretes"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "O": {
+      "tag": "c:obsidians"
+    }
+  },
+  "pattern": [
+    "CIC",
+    "IOI",
+    "CIC"
+  ],
+  "result": {
+    "count": 8,
+    "id": "scp_unleashed:reinforced_containment_wall"
+  }
+}

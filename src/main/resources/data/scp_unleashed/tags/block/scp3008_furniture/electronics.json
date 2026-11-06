@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_electronics_tv_bench",
+    "scp_unleashed:scp3008_electronics_wall_tv",
+    "scp_unleashed:scp3008_electronics_tv_wall",
+    "scp_unleashed:scp3008_electronics_floor_speaker",
+    "scp_unleashed:scp3008_electronics_soundbar_set",
+    "scp_unleashed:scp3008_electronics_record_player",
+    "scp_unleashed:scp3008_electronics_radio",
+    "scp_unleashed:scp3008_electronics_computer_desk",
+    "scp_unleashed:scp3008_electronics_laptop_stand",
+    "scp_unleashed:scp3008_electronics_phone_table",
+    "scp_unleashed:scp3008_electronics_headphone_wall",
+    "scp_unleashed:scp3008_electronics_smart_speaker",
+    "scp_unleashed:scp3008_electronics_router_shelf",
+    "scp_unleashed:scp3008_electronics_console_kiosk",
+    "scp_unleashed:scp3008_electronics_charging_station",
+    "scp_unleashed:scp3008_electronics_charger_lamp",
+    "scp_unleashed:scp3008_electronics_boxed_stack",
+    "scp_unleashed:scp3008_electronics_cable_wall",
+    "scp_unleashed:scp3008_electronics_gondola_end",
+    "scp_unleashed:scp3008_electronics_gaming_chair"
+  ]
+}

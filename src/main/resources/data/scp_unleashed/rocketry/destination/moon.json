@@ -1,0 +1,12 @@
+{
+  "dimension": "scp_unleashed:moon",
+  "name": {
+    "translate": "destination.scp_unleashed.moon"
+  },
+  "icon": "scp_unleashed:textures/gui/rocketry/destination/moon.png",
+  "fuel": 8000,
+  "power": 200000,
+  "arrival_height": 150,
+  "gravity": 0.3,
+  "order": 10
+}

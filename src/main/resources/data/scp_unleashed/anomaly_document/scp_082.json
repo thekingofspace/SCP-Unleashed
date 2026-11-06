@@ -1,0 +1,19 @@
+{
+  "lang": "dossier.scp_unleashed.082",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_082",
+  "start_condition": {
+    "type": "scp082_shore",
+    "min_delay": 10,
+    "check_interval": 5,
+    "chance": 0.12,
+    "min_shore": 20,
+    "max_shore": 150,
+    "min_distance": 20,
+    "max_distance": 44
+  }
+}

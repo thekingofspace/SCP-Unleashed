@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.024",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_024",
+  "start_condition": {
+    "type": "scp024_wander",
+    "min_distance": 96,
+    "max_distance": 160,
+    "accuracy": 24,
+    "arrival": 48
+  }
+}

@@ -1,0 +1,35 @@
+package net.rai.scp_unleashed.scp457.integration;
+
+import net.minecraft.ChatFormatting;
+import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
+import net.rai.scp_unleashed.Scp_unleashed;
+import net.rai.scp_unleashed.scp457.Scp457AshPileBlock;
+import snownee.jade.api.BlockAccessor;
+import snownee.jade.api.IBlockComponentProvider;
+import snownee.jade.api.ITooltip;
+import snownee.jade.api.config.IPluginConfig;
+
+public enum Scp457AshPileJadeProvider implements IBlockComponentProvider {
+    Instance;
+
+    private static final ResourceLocation Uid = ResourceLocation.fromNamespaceAndPath(Scp_unleashed.ModId, "scp457_ash_pile");
+    private static final String Prefix = "jade.scp_unleashed.scp457_ash_pile.";
+
+    @Override
+    public ResourceLocation getUid() {
+        return Uid;
+    }
+
+    @Override
+    public void appendTooltip(ITooltip Tooltip, BlockAccessor Accessor, IPluginConfig Config) {
+        if (!(Accessor.getBlock() instanceof Scp457AshPileBlock)) {
+            return;
+        }
+        if (Accessor.getBlockState().getValue(Scp457AshPileBlock.Waterlogged)) {
+            Tooltip.add(Component.translatable(Prefix + "sodden").withStyle(ChatFormatting.GRAY));
+        } else {
+            Tooltip.add(Component.translatable(Prefix + "warm").withStyle(ChatFormatting.GOLD, ChatFormatting.ITALIC));
+        }
+    }
+}

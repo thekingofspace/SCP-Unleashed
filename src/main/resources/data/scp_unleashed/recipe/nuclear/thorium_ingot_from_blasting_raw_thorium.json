@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.8,
+  "group": "thorium_ingot",
+  "ingredient": {
+    "item": "scp_unleashed:raw_thorium"
+  },
+  "result": {
+    "id": "scp_unleashed:thorium_ingot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:charged_trinitite_block"
+    },
+    {
+      "item": "scp_unleashed:charged_trinitite_block"
+    },
+    {
+      "item": "scp_unleashed:copper_wire"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:charged_redstone"
+  }
+}

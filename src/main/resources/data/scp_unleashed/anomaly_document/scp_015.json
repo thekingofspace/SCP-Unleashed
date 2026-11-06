@@ -1,0 +1,29 @@
+{
+  "lang": "dossier.scp_unleashed.015",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_015",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp015",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp015_pipe",
+        "count": 1
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp015.0",
+      "archive.scp_unleashed.notes.scp015.1"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "scp_unleashed:electric_smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "scp_unleashed:meteor_dust"
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:meteoric_plate"
+  },
+  "experience": 1.0,
+  "cookingtime": 300,
+  "power_multiplier": 1.5
+}

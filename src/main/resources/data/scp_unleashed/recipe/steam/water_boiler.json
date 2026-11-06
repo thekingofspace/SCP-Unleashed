@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "C": {
+      "item": "minecraft:cauldron"
+    },
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "KCK",
+    "BFB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:water_boiler"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "R": {
+      "item": "scp_unleashed:reinforced_glass"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "I": {
+      "item": "scp_unleashed:steel_ingot"
+    },
+    "K": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "CAC",
+    "IKI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:lab_analyzer"
+  }
+}

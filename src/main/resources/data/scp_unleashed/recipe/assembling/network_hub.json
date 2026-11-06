@@ -1,0 +1,42 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:network_router",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:computer",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 12
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 4
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:network_hub",
+    "count": 1
+  },
+  "time": 600
+}

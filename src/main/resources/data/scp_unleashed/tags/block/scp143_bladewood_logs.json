@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp143_log",
+    "scp_unleashed:scp143_wood",
+    "scp_unleashed:scp143_stripped_log",
+    "scp_unleashed:scp143_stripped_wood"
+  ]
+}

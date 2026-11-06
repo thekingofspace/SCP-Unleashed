@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "A": {
+      "item": "scp_unleashed:capacitor"
+    }
+  },
+  "pattern": [
+    "PLP",
+    "CKC",
+    "PAP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:radio_booster_tower"
+  }
+}

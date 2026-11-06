@@ -1,0 +1,10 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:z0002_finger",
+  "price": 15000,
+  "document": "scp_unleashed:z_0002",
+  "description": {
+    "translate": "shop.scp_unleashed.z_0002.description"
+  },
+  "order": 1001
+}

@@ -1,0 +1,27 @@
+{
+  "type": "scp_unleashed:advanced_materials",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:magnetized_block",
+      "count": 3
+    },
+    {
+      "item": "scp_unleashed:electric_motor",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 2
+    },
+    {
+      "tag": "c:dusts/redstone",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:magnetized_single_bulkhead_door",
+    "count": 1
+  },
+  "time": 300,
+  "power": 1.5
+}

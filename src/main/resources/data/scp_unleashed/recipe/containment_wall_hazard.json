@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "W": {
+      "item": "scp_unleashed:reinforced_containment_wall"
+    },
+    "Y": {
+      "tag": "c:dyes/yellow"
+    },
+    "B": {
+      "tag": "c:dyes/black"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "YBY",
+    "WWW"
+  ],
+  "result": {
+    "count": 6,
+    "id": "scp_unleashed:containment_wall_hazard"
+  }
+}

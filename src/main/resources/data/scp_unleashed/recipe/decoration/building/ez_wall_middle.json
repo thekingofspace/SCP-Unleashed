@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "building",
+  "material": {
+    "item": "scp_unleashed:decorative_concrete",
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:ez_wall_middle"
+  }
+}

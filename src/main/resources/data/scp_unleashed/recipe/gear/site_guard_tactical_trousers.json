@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "K": {
+      "tag": "c:dyes/black"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "KLK",
+    "W W",
+    "W W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:site_guard_tactical_trousers"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.457",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_457",
+  "start_condition": {
+    "type": "scp457_site",
+    "min_distance": 300,
+    "max_distance": 900,
+    "accuracy": 24,
+    "arrival": 40
+  }
+}

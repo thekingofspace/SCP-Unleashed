@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "H": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "pattern": [
+    "IKI",
+    "IHI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:drain"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_kitchen_base_cabinet",
+    "scp_unleashed:scp3008_kitchen_wall_cabinet",
+    "scp_unleashed:scp3008_kitchen_sink",
+    "scp_unleashed:scp3008_kitchen_stove",
+    "scp_unleashed:scp3008_kitchen_fridge",
+    "scp_unleashed:scp3008_kitchen_island",
+    "scp_unleashed:scp3008_kitchen_cart",
+    "scp_unleashed:scp3008_kitchen_wall_shelf"
+  ]
+}

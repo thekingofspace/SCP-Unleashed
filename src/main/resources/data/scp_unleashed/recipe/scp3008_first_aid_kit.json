@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_bandage"
+    },
+    {
+      "item": "scp_unleashed:scp3008_bandage"
+    },
+    {
+      "item": "scp_unleashed:scp3008_bandage"
+    },
+    {
+      "item": "scp_unleashed:scp3008_cardboard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_first_aid_kit"
+  }
+}

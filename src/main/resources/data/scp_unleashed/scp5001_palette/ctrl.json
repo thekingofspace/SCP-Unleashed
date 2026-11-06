@@ -1,0 +1,190 @@
+{
+  "roles": {
+    "workstation": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_workstation",
+          "weight": 4
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_console_pod",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_operator_seat",
+          "weight": 2
+        }
+      ]
+    },
+    "wall_screen": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_wall_screen",
+          "weight": 4
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_wall_monitor_array",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_wall_status_column",
+          "weight": 2
+        }
+      ]
+    },
+    "server_rack": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_server_pillar",
+          "weight": 4
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_server_rack",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_data_core",
+          "weight": 2
+        }
+      ]
+    },
+    "holo_table": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_holo_table",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_holo_plinth",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_holo_planner",
+          "weight": 2
+        }
+      ]
+    },
+    "camera": {
+      "kind": "ceiling",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sensor_pod",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_ceiling_camera",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_scanner_eye",
+          "weight": 2
+        }
+      ]
+    },
+    "security_gate": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_scanner_arch",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_security_pylon",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_field_post",
+          "weight": 2
+        }
+      ]
+    },
+    "weapon_locker": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_weapon_locker",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_armory_case",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_locker_sealed",
+          "weight": 2
+        }
+      ]
+    },
+    "archive_cabinet": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_archive_cylinder",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_archive_cabinet",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_archive_stack",
+          "weight": 2
+        }
+      ]
+    },
+    "ctrl_clutter": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_data_slates",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_glyph_cube",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_drive_stack",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_tool_case",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_signal_relay",
+          "weight": 2
+        }
+      ]
+    },
+    "signage": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sign_c04",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sign_c12",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sign_glyph",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sign_arrow",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_ctrl_sign_warn",
+          "weight": 2
+        }
+      ]
+    }
+  }
+}

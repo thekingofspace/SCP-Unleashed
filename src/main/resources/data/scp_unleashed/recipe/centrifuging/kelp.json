@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "item": "minecraft:kelp",
+    "count": 4
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:rubber"
+    }
+  ],
+  "time": 160
+}

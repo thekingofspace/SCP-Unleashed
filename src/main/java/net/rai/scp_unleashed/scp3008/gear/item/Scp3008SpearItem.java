@@ -1,0 +1,131 @@
+package net.rai.scp_unleashed.scp3008.gear.item;
+
+import net.minecraft.ChatFormatting;
+import net.minecraft.core.BlockPos;
+import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.sounds.SoundSource;
+import net.minecraft.stats.Stats;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.InteractionResultHolder;
+import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.entity.EquipmentSlotGroup;
+import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.entity.ai.attributes.AttributeModifier;
+import net.minecraft.world.entity.ai.attributes.Attributes;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.entity.projectile.AbstractArrow;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.TooltipFlag;
+import net.minecraft.world.item.UseAnim;
+import net.minecraft.world.item.component.ItemAttributeModifiers;
+import net.minecraft.world.level.Level;
+import net.minecraft.world.level.block.state.BlockState;
+import net.rai.scp_unleashed.scp3008.gear.Scp3008GearRegistry;
+import net.rai.scp_unleashed.scp3008.gear.entity.Scp3008ThrownSpear;
+
+import java.util.List;
+
+public class Scp3008SpearItem extends Item {
+    public static final int Uses = 160;
+    public static final double Damage = 5.0;
+    public static final double Speed = -2.8;
+    public static final double Reach = 1.0;
+    public static final int Charge = 10;
+    public static final float ThrowSpeed = 2.0f;
+    public static final int Enchantability = 10;
+    public static final ResourceLocation ReachId = Scp3008GearRegistry.location("scp3008_gear_spear_reach");
+
+    public Scp3008SpearItem(Properties Settings) {
+        super(Settings);
+    }
+
+    public static ItemAttributeModifiers createAttributes() {
+        return ItemAttributeModifiers.builder()
+                .add(Attributes.ATTACK_DAMAGE, new AttributeModifier(BASE_ATTACK_DAMAGE_ID, Damage, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
+                .add(Attributes.ATTACK_SPEED, new AttributeModifier(BASE_ATTACK_SPEED_ID, Speed, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
+                .add(Attributes.ENTITY_INTERACTION_RANGE, new AttributeModifier(ReachId, Reach, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
+                .build();
+    }
+
+    @Override
+    public boolean canAttackBlock(BlockState State, Level World, BlockPos Pos, Player User) {
+        return !User.isCreative();
+    }
+
+    @Override
+    public UseAnim getUseAnimation(ItemStack Stack) {
+        return UseAnim.SPEAR;
+    }
+
+    @Override
+    public int getUseDuration(ItemStack Stack, LivingEntity User) {
+        return 72000;
+    }
+
+    private static boolean worn(ItemStack Stack) {
+        return Stack.getDamageValue() >= Stack.getMaxDamage() - 1;
+    }
+
+    @Override
+    public InteractionResultHolder<ItemStack> use(Level World, Player User, InteractionHand Hand) {
+        ItemStack Stack = User.getItemInHand(Hand);
+        if (worn(Stack)) {
+            return InteractionResultHolder.fail(Stack);
+        }
+        User.startUsingItem(Hand);
+        return InteractionResultHolder.consume(Stack);
+    }
+
+    @Override
+    public void releaseUsing(ItemStack Stack, Level World, LivingEntity User, int TimeLeft) {
+        if (!(User instanceof Player Thrower) || getUseDuration(Stack, User) - TimeLeft < Charge || worn(Stack)) {
+            return;
+        }
+        if (!World.isClientSide) {
+            throwSpear(World, Thrower, Stack);
+        }
+        Thrower.awardStat(Stats.ITEM_USED.get(this));
+    }
+
+    public static Scp3008ThrownSpear throwSpear(Level World, Player Thrower, ItemStack Stack) {
+        Stack.hurtAndBreak(1, Thrower, LivingEntity.getSlotForHand(Thrower.getUsedItemHand()));
+        Scp3008ThrownSpear Thrown = new Scp3008ThrownSpear(World, Thrower, Stack);
+        Thrown.shootFromRotation(Thrower, Thrower.getXRot(), Thrower.getYRot(), 0.0f, ThrowSpeed, 1.0f);
+        if (Thrower.hasInfiniteMaterials()) {
+            Thrown.pickup = AbstractArrow.Pickup.CREATIVE_ONLY;
+        }
+        World.addFreshEntity(Thrown);
+        World.playSound(null, Thrown, Scp3008GearRegistry.SpearThrow.get(), SoundSource.PLAYERS, 1.0f, 1.0f);
+        if (!Thrower.hasInfiniteMaterials()) {
+            Thrower.getInventory().removeItem(Stack);
+        }
+        return Thrown;
+    }
+
+    @Override
+    public boolean hurtEnemy(ItemStack Stack, LivingEntity Target, LivingEntity Attacker) {
+        return true;
+    }
+
+    @Override
+    public void postHurtEnemy(ItemStack Stack, LivingEntity Target, LivingEntity Attacker) {
+        Stack.hurtAndBreak(1, Attacker, EquipmentSlot.MAINHAND);
+    }
+
+    @Override
+    public boolean isValidRepairItem(ItemStack Stack, ItemStack Repair) {
+        return Repair.is(Scp3008GearRegistry.TableLeg.get());
+    }
+
+    @Override
+    public int getEnchantmentValue() {
+        return Enchantability;
+    }
+
+    @Override
+    public void appendHoverText(ItemStack Stack, TooltipContext Context, List<Component> Lines, TooltipFlag Flag) {
+        Lines.add(Component.translatable(getDescriptionId() + ".tooltip").withStyle(ChatFormatting.GRAY));
+    }
+}

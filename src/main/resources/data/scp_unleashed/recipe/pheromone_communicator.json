@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "V": {
+      "item": "scp_unleashed:lab_vial"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "G": {
+      "item": "scp_unleashed:reinforced_glass"
+    }
+  },
+  "pattern": [
+    "VGV",
+    "CAC",
+    "SWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:pheromone_communicator"
+  }
+}

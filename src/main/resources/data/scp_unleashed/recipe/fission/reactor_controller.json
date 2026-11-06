@@ -1,0 +1,39 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:circuit_board",
+      "count": 2
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:copper_wire",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:reactor_controller",
+    "count": 1
+  },
+  "time": 400,
+  "power": 1.5
+}

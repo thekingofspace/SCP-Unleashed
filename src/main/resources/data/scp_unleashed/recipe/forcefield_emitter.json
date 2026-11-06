@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "S": {
+      "item": "scp_unleashed:superconductor_coil"
+    },
+    "C": {
+      "item": "scp_unleashed:capacitor"
+    },
+    "G": {
+      "item": "scp_unleashed:reinforced_glass"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "CGC",
+    "PAP"
+  ],
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:forcefield_emitter"
+  }
+}

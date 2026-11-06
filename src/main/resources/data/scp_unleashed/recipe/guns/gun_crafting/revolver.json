@@ -1,0 +1,29 @@
+{
+  "type": "scp_unleashed:gun_crafting",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:gun_receiver",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:short_barrel",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:firing_mechanism",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:revolver_cylinder",
+      "count": 1
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 2
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:revolver"
+  }
+}

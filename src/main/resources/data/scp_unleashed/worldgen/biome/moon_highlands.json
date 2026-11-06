@@ -1,0 +1,46 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.0,
+  "effects": {
+    "sky_color": 0,
+    "fog_color": 0,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "grass_color": 8421504,
+    "foliage_color": 8421504
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [
+      "scp_unleashed:moon_crater_large",
+      "scp_unleashed:moon_crater_medium",
+      "scp_unleashed:moon_crater_small",
+      "scp_unleashed:moon_stone_patch"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "scp_unleashed:moon_outcrop",
+      "scp_unleashed:moon_boulder"
+    ],
+    []
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "C": {
+      "tag": "c:plates/copper"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "PCP",
+    "KWK",
+    "PCP"
+  ],
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:fission_heat_exchanger"
+  }
+}

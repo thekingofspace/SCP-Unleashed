@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "scp_unleashed:energum_dust"
+    },
+    "E": {
+      "tag": "c:ender_pearls"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    " WE",
+    "IGW",
+    "DI "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:rift_extractor"
+  }
+}

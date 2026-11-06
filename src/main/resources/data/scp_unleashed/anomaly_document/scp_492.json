@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.492",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_492",
+  "start_condition": {
+    "type": "scp492_outskirts",
+    "min_delay": 60,
+    "max_delay": 180,
+    "min_distance": 16,
+    "max_distance": 28
+  }
+}

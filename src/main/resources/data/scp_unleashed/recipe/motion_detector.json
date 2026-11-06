@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "T": {
+      "item": "minecraft:tinted_glass"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "WOW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:motion_detector"
+  }
+}

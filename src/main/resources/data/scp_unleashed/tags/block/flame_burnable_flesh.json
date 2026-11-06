@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#scp_unleashed:scp610_flesh",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_flesh",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_veined_flesh",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_wound",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_pustule",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_sinew",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_tendrils",
+      "required": false
+    }
+  ]
+}

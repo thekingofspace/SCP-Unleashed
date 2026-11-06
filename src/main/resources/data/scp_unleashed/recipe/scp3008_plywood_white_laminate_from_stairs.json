@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_plywood_white_laminate_stairs"
+    },
+    {
+      "item": "scp_unleashed:scp3008_plywood_white_laminate_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "scp_unleashed:scp3008_plywood_white_laminate"
+  }
+}

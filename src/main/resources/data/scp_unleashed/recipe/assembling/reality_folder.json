@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 6
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 32
+    },
+    {
+      "item": "scp_unleashed:steel_block",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:ultimate_wire",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:scranton_reality_anchor",
+      "count": 4
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:reality_folder",
+    "count": 1
+  },
+  "time": 1600,
+  "power": 4.0
+}

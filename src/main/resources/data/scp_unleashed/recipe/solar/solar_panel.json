@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "S": {
+      "item": "scp_unleashed:silicon"
+    },
+    "D": {
+      "item": "minecraft:daylight_detector"
+    },
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "SDS",
+    "PMP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:solar_panel"
+  }
+}

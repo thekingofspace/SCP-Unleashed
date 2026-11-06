@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_bedroom_double_bed",
+    "scp_unleashed:scp3008_bedroom_single_bed",
+    "scp_unleashed:scp3008_bedroom_wardrobe",
+    "scp_unleashed:scp3008_bedroom_chest_of_drawers",
+    "scp_unleashed:scp3008_bedroom_nightstand",
+    "scp_unleashed:scp3008_bedroom_floor_mirror",
+    "scp_unleashed:scp3008_bedroom_clothes_rail"
+  ]
+}

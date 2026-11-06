@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "N": {
+      "tag": "c:nuggets/gold"
+    },
+    "L": {
+      "tag": "c:leathers"
+    }
+  },
+  "pattern": [
+    "WNW",
+    "L L"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:site_guard_cap"
+  }
+}

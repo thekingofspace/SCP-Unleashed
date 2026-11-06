@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:plates/aluminum"
+    },
+    "P": {
+      "item": "scp_unleashed:plastic"
+    },
+    "C": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "E": {
+      "item": "scp_unleashed:energum_alloy_ingot"
+    }
+  },
+  "pattern": [
+    "A A",
+    "PCP",
+    "IEI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:space_suit_chestplate"
+  }
+}

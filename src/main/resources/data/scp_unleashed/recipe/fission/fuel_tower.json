@@ -1,0 +1,31 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:vent",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:fuel_tower",
+    "count": 1
+  },
+  "time": 600,
+  "power": 2.0
+}

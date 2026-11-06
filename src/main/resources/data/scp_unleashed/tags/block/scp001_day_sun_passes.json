@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#c:glass_panes",
+    "minecraft:iron_bars",
+    "minecraft:chain",
+    "minecraft:ice",
+    "minecraft:frosted_ice",
+    "minecraft:ladder",
+    "minecraft:scaffolding"
+  ]
+}

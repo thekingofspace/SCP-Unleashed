@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp610_flesh",
+    "scp_unleashed:scp610_veined_flesh",
+    "scp_unleashed:scp610_pustule",
+    "scp_unleashed:scp610_sinew",
+    "scp_unleashed:scp610_tendrils",
+    "scp_unleashed:scp610_wound"
+  ]
+}

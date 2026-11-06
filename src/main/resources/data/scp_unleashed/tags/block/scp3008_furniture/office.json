@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_office_desk",
+    "scp_unleashed:scp3008_office_chair",
+    "scp_unleashed:scp3008_office_filing_cabinet",
+    "scp_unleashed:scp3008_office_shelving",
+    "scp_unleashed:scp3008_office_drawer_unit",
+    "scp_unleashed:scp3008_office_desk_lamp",
+    "scp_unleashed:scp3008_office_whiteboard"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:gray_wool"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "B": {
+      "tag": "c:dyes/blue"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "PBP",
+    "C C"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:goc_trousers"
+  }
+}

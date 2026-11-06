@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "scp_unleashed:blocks/scp049_surgery_tray",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp049_surgery_tray"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

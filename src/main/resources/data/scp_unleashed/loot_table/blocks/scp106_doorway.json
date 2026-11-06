@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp106_doorway"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:any_of",
+          "terms": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "scp_unleashed:scp106_doorway",
+              "properties": {
+                "part": "lower"
+              }
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "scp_unleashed:scp106_doorway",
+              "properties": {
+                "part": "single"
+              }
+            }
+          ]
+        },
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "scp_unleashed:blocks/scp106_doorway"
+}

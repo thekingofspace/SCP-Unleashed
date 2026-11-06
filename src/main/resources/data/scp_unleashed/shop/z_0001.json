@@ -1,0 +1,10 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:z0001_book",
+  "price": 10000,
+  "document": "scp_unleashed:z_0001",
+  "description": {
+    "translate": "shop.scp_unleashed.z_0001.description"
+  },
+  "order": 1000
+}

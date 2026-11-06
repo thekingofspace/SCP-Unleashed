@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "W W",
+    "WSW",
+    "LWL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp001_day_sun_wraps"
+  }
+}

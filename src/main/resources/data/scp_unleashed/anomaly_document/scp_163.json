@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.163",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_163",
+  "start_condition": {
+    "type": "scp163_crash",
+    "min_delay": 60,
+    "max_delay": 290,
+    "min_distance": 28,
+    "max_distance": 60
+  }
+}

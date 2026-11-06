@@ -1,0 +1,32 @@
+{
+  "lang": "dossier.scp_unleashed.4666",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_4666",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 240,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp4666",
+    "gift": [
+      {
+        "item": "scp_unleashed:dimensional_shard",
+        "count": 1,
+        "components": {
+          "scp_unleashed:gateway_destination": "scp_unleashed:scp4666_winter"
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp4666.0",
+      "archive.scp_unleashed.notes.scp4666.1"
+    ]
+  }
+}

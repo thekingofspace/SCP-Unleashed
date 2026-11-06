@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "tag": "c:strings"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "pattern": [
+    "SLS",
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:serpents_hand_trousers"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.428",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_428",
+  "start_condition": {
+    "type": "scp428_site",
+    "min_distance": 200,
+    "max_distance": 600,
+    "accuracy": 24,
+    "arrival": 40
+  }
+}

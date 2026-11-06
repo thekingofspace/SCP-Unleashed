@@ -1,0 +1,43 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:keycard_scanner",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:door_lever",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 2
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:warhead_panel",
+    "count": 1
+  },
+  "time": 900,
+  "power": 2.0
+}

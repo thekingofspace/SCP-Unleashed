@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#scp_unleashed:scp3008_unbreakable",
+      "required": false
+    },
+    {
+      "id": "#scp_unleashed:scp682_unbreakable",
+      "required": false
+    },
+    {
+      "id": "#scp_unleashed:scp001_singularity_proof",
+      "required": false
+    },
+    {
+      "id": "#scp_unleashed:bulletproof",
+      "required": false
+    },
+    {
+      "id": "minecraft:bedrock",
+      "required": false
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "required": false
+    }
+  ]
+}

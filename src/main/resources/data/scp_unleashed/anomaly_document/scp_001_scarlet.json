@@ -1,0 +1,13 @@
+{
+  "lang": "dossier.scp_unleashed.001_scarlet",
+  "classification": "apollyon",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "archive_pool": "apocalyptic",
+  "photo": "scp_unleashed:gui/archive/photo/scp_001_scarlet",
+  "start_condition": {
+    "type": "scp001_scarlet_read"
+  }
+}

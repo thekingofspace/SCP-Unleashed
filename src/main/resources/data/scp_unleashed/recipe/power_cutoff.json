@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "O": {
+      "item": "scp_unleashed:outlet"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    " T ",
+    "OKO",
+    "IWI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:power_cutoff"
+  }
+}

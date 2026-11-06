@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:reinforced_containment_wall",
+    "scp_unleashed:containment_wall_hazard",
+    "scp_unleashed:containment_floor_drain",
+    "scp_unleashed:reinforced_glass",
+    "scp_unleashed:reinforced_glass_pane",
+    "scp_unleashed:one_way_glass",
+    "scp_unleashed:smart_one_way_glass",
+    "scp_unleashed:containment_door",
+    "scp_unleashed:blast_gate",
+    "scp_unleashed:containment_tall_door",
+    "scp_unleashed:containment_room_door",
+    "scp_unleashed:containment_single_door",
+    "scp_unleashed:tall_blast_gate",
+    "scp_unleashed:room_blast_gate",
+    "scp_unleashed:single_blast_gate",
+    "scp_unleashed:containment_door_xl",
+    "scp_unleashed:scp3199_egg",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine",
+    "scp_unleashed:scp5001_console_main",
+    "scp_unleashed:scp5001_generator",
+    "scp_unleashed:scp5001_generator_console",
+    "scp_unleashed:scp5001_rod_emitter",
+    "scp_unleashed:scp5001_laser_emitter",
+    "scp_unleashed:scp5001_chamber_core"
+  ]
+}

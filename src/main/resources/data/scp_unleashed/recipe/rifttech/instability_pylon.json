@@ -1,0 +1,39 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 3
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 3
+    },
+    {
+      "item": "scp_unleashed:reactive_material",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_volatile",
+      "count": 1
+    },
+    {
+      "tag": "c:storage_blocks/energum",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:instability_pylon",
+    "count": 1
+  },
+  "time": 1000,
+  "power": 4.0
+}

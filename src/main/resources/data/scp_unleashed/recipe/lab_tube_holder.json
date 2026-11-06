@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "scp_unleashed:steel_rod"
+    },
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    }
+  },
+  "pattern": [
+    "R R",
+    "SSS",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:lab_tube_holder"
+  }
+}

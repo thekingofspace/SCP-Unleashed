@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:plates/aluminum"
+    },
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "P": {
+      "item": "scp_unleashed:plastic"
+    }
+  },
+  "pattern": [
+    "AIA",
+    "P P",
+    "A A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:space_suit_leggings"
+  }
+}

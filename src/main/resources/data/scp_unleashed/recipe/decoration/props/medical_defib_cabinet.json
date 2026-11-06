@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "props",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 4
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:medical_defib_cabinet"
+  }
+}

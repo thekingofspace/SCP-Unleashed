@@ -1,0 +1,29 @@
+{
+  "lang": "dossier.scp_unleashed.335",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_335",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "scp079_hobbyist",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp335",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp335_disk",
+        "count": 1
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp335.0",
+      "archive.scp_unleashed.notes.scp335.1"
+    ]
+  }
+}

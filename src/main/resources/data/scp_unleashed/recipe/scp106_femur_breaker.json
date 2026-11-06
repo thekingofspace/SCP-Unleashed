@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "V": {
+      "item": "minecraft:lever"
+    },
+    "B": {
+      "tag": "c:storage_blocks/iron"
+    },
+    "H": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "HPV",
+    "LAP",
+    "BLB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp106_femur_breaker"
+  }
+}

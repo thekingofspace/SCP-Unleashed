@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "scp_unleashed:blocks/scp902_firing_step",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp902_firing_step"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

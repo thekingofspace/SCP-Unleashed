@@ -1,0 +1,12 @@
+{
+  "kind": "item",
+  "item": {
+    "id": "scp_unleashed:disinfecting_wipe",
+    "count": 8
+  },
+  "price": 14,
+  "description": {
+    "translate": "shop.scp_unleashed.disinfecting_wipes.description"
+  },
+  "order": 215
+}

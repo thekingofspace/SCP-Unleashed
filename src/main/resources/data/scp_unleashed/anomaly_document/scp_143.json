@@ -1,0 +1,15 @@
+{
+  "lang": "dossier.scp_unleashed.143",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 2,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_143",
+  "start_condition": {
+    "type": "scp143_grove",
+    "min_distance": 320,
+    "max_distance": 640,
+    "arrival": 40
+  }
+}

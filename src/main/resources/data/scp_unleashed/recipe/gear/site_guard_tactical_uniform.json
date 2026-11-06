@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "K": {
+      "tag": "c:dyes/black"
+    },
+    "I": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "W W",
+    "LKL",
+    "LIL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:site_guard_tactical_uniform"
+  }
+}

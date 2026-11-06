@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "R": {
+      "item": "scp_unleashed:rubber"
+    }
+  },
+  "pattern": [
+    "I I",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:hazmat_boots"
+  }
+}

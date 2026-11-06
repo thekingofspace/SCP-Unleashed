@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:stranger_figure",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:vacant_body",
+      "required": false
+    }
+  ]
+}

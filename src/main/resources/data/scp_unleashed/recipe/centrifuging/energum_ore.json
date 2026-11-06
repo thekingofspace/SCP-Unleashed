@@ -1,0 +1,17 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "tag": "c:ores/energum"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:energum_dust",
+      "count": 2
+    },
+    {
+      "id": "minecraft:redstone",
+      "chance": 0.35
+    }
+  ],
+  "time": 160
+}

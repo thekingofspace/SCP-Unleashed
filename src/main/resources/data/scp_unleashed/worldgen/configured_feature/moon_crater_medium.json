@@ -1,0 +1,14 @@
+{
+  "type": "scp_unleashed:moon_crater",
+  "config": {
+    "radius": {
+      "type": "minecraft:uniform",
+      "min_inclusive": 5,
+      "max_inclusive": 9
+    },
+    "depth": 0.34,
+    "rim": 0.13,
+    "ejecta": 1.45,
+    "rocks": 0.35
+  }
+}

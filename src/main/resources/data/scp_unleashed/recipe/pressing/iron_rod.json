@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:pressing",
+  "ingredient": {
+    "tag": "c:ingots/iron"
+  },
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:iron_rod"
+  },
+  "time": 80,
+  "die": "rod"
+}

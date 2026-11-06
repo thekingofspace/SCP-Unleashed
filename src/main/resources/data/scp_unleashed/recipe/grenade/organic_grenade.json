@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:gun_spring"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "D": {
+      "item": "scp_unleashed:lab_petri_dish"
+    },
+    "G": {
+      "tag": "c:gunpowders"
+    }
+  },
+  "pattern": [
+    " S ",
+    "PDP",
+    " G "
+  ],
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:organic_grenade"
+  }
+}

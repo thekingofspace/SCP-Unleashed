@@ -1,0 +1,10 @@
+{
+  "type": "scp_unleashed:scp001_day",
+  "generator": {
+    "type": "scp_unleashed:scp001_day_city",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "scp_unleashed:scp001_day_city"
+    }
+  }
+}

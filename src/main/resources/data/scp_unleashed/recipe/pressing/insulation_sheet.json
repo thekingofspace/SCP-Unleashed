@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:pressing",
+  "ingredient": {
+    "item": "scp_unleashed:rubber"
+  },
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:insulation_sheet"
+  },
+  "time": 60,
+  "die": "plate"
+}

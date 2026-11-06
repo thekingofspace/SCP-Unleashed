@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "R": {
+      "item": "scp_unleashed:reinforced_glass"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "T": {
+      "item": "scp_unleashed:lab_tube_holder"
+    },
+    "I": {
+      "item": "scp_unleashed:steel_ingot"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "MTM",
+    "IAI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:disperser"
+  }
+}

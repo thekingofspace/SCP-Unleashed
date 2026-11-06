@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:keycard_level_4"
+    },
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "scp_unleashed:energum_dust"
+    },
+    {
+      "item": "scp_unleashed:plastic"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:keycard_level_5"
+  }
+}

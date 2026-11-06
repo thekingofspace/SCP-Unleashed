@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:ore_purifying",
+  "ingredient": {
+    "tag": "c:raw_materials/uranium"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:uranium_dust",
+      "count": 2
+    },
+    {
+      "id": "scp_unleashed:uranium_dust",
+      "chance": 0.1
+    },
+    {
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "id": "scp_unleashed:thorium_dust",
+      "chance": 0.1
+    }
+  ],
+  "time": 200,
+  "water": 250,
+  "waste": 250
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:stasis_pod_faint",
+  "price": 120,
+  "description": {
+    "translate": "shop.scp_unleashed.stasis_pod.description"
+  },
+  "order": 100
+}

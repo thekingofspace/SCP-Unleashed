@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:containment_door"
+    },
+    {
+      "item": "scp_unleashed:containment_tall_door"
+    },
+    {
+      "tag": "c:storage_blocks/iron"
+    },
+    {
+      "item": "minecraft:redstone_lamp"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:containment_door_xl"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    },
+    "L": {
+      "item": "scp_unleashed:long_barrel"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "ILI",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:heavy_barrel"
+  }
+}

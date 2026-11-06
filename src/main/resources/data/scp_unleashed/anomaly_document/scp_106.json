@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.106",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_106",
+  "start_condition": {
+    "type": "scp106_nightfall",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 6,
+    "max_distance": 12
+  }
+}

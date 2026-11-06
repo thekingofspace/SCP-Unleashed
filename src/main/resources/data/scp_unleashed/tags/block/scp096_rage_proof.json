@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:reinforced_containment_wall",
+    "scp_unleashed:containment_wall_hazard",
+    "scp_unleashed:containment_floor_drain",
+    "scp_unleashed:reinforced_glass",
+    "scp_unleashed:reinforced_glass_pane",
+    "scp_unleashed:one_way_glass",
+    "scp_unleashed:smart_one_way_glass",
+    "scp_unleashed:containment_door",
+    "scp_unleashed:blast_gate",
+    "scp_unleashed:steel_block",
+    "scp_unleashed:scp076_vault_door",
+    "scp_unleashed:scp076_vault_stone",
+    "scp_unleashed:containment_tall_door",
+    "scp_unleashed:containment_room_door",
+    "scp_unleashed:containment_single_door",
+    "scp_unleashed:tall_blast_gate",
+    "scp_unleashed:room_blast_gate",
+    "scp_unleashed:single_blast_gate",
+    "scp_unleashed:containment_door_xl",
+    "scp_unleashed:scp3199_egg",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine"
+  ]
+}

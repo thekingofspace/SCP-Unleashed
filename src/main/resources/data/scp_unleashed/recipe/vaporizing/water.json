@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:vaporizing",
+  "input": {
+    "tag": "minecraft:water",
+    "amount": 100
+  },
+  "result": {
+    "gas": "scp_unleashed:steam",
+    "amount": 100
+  },
+  "time": 20,
+  "power": 40
+}

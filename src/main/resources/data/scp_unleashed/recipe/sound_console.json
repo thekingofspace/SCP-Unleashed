@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "INI",
+    "WCW",
+    "IWI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sound_console"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "decals",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 2
+  },
+  "extra": {
+    "tag": "c:ingots/copper",
+    "count": 1
+  },
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:decal_fixture"
+  }
+}

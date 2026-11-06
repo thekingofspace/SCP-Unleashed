@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "O": {
+      "item": "scp_unleashed:one_way_glass"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "OWO",
+    "WRW",
+    "OWO"
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:smart_one_way_glass"
+  }
+}

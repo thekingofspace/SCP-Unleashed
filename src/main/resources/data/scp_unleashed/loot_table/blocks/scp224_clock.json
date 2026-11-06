@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp224_clock",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "scp_unleashed:scp224_clock",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "scp_unleashed:blocks/scp224_clock"
+}

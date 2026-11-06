@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "KCK",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:centrifuge"
+  }
+}

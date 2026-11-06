@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:pressing",
+  "ingredient": {
+    "tag": "c:ingots/iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:iron_plate"
+  },
+  "time": 80,
+  "die": "plate"
+}

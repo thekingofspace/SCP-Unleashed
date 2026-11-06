@@ -1,0 +1,39 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:rift_extractor",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:reactive_material",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 6
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:rift_collector",
+    "count": 1
+  },
+  "time": 900,
+  "power": 3.0
+}

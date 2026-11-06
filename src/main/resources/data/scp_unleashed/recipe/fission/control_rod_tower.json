@@ -1,0 +1,31 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 4
+    },
+    {
+      "tag": "c:rods/steel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:electric_motor",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:carbon_dust",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:circuit_board",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:control_rod_tower",
+    "count": 1
+  },
+  "time": 500,
+  "power": 1.5
+}

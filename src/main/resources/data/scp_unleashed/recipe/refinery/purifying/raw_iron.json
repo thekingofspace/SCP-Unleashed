@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:ore_purifying",
+  "ingredient": {
+    "tag": "c:raw_materials/iron"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:iron_dust",
+      "count": 3
+    },
+    {
+      "id": "scp_unleashed:iron_dust",
+      "chance": 0.15
+    },
+    {
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "id": "minecraft:flint",
+      "chance": 0.1
+    }
+  ],
+  "time": 160,
+  "water": 250,
+  "waste": 250
+}

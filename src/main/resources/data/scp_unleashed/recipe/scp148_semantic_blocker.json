@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "B": {
+      "item": "scp_unleashed:scp148_block"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "R": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "PCP",
+    "KBK",
+    "PRP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp148_semantic_blocker"
+  }
+}

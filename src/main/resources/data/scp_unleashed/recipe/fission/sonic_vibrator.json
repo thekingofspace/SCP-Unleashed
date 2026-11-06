@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "C": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "M": {
+      "item": "scp_unleashed:circuit_board"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "GCG",
+    "KMK"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sonic_vibrator"
+  }
+}

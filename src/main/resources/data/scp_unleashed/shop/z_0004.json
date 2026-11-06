@@ -1,0 +1,10 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:z0004_chest",
+  "price": 12000,
+  "document": "scp_unleashed:z_0004",
+  "description": {
+    "translate": "shop.scp_unleashed.z_0004.description"
+  },
+  "order": 1004
+}

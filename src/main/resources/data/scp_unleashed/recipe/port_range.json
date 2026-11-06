@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "IRI",
+    "WCW",
+    "IWI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:port_range"
+  }
+}

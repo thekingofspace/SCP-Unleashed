@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:solar_panel"
+    },
+    "C": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "S": {
+      "tag": "c:plates/steel"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    "PCP",
+    "SMS",
+    "PWP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:solar_array"
+  }
+}

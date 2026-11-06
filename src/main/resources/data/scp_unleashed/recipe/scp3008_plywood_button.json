@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_plywood"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_plywood_button"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:disruptor_core",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:ultralaser_cell",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 24
+    },
+    {
+      "item": "scp_unleashed:meteoric_plate",
+      "count": 16
+    },
+    {
+      "tag": "c:storage_blocks/steel",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_abyssal",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 8
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:orbital_emitter_barrel",
+    "count": 1
+  },
+  "time": 4800,
+  "power": 12.0
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:scp3008_plywood"
+    },
+    "A": {
+      "item": "scp_unleashed:scp3008_acrylic_sheet"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "result": {
+    "count": 8,
+    "id": "scp_unleashed:scp3008_plywood_white_laminate"
+  }
+}

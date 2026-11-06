@@ -1,0 +1,1184 @@
+{
+  "template_origin": [
+    -16,
+    59,
+    -12
+  ],
+  "template_size": [
+    33,
+    21,
+    25
+  ],
+  "centre": [
+    0,
+    64,
+    0
+  ],
+  "front_door": [
+    -2,
+    65,
+    6
+  ],
+  "side_door": [
+    9,
+    65,
+    3
+  ],
+  "box": [
+    -1,
+    65,
+    7
+  ],
+  "exit_door": [
+    -2,
+    64,
+    14
+  ],
+  "tree": [
+    -8,
+    65,
+    -1
+  ],
+  "fireplace": [
+    -8,
+    65,
+    2
+  ],
+  "switch": [
+    -1,
+    66,
+    5
+  ],
+  "gramophone": [
+    -3,
+    66,
+    -1
+  ],
+  "porch_bounds": [
+    -5,
+    7,
+    1,
+    10
+  ],
+  "calendar": [
+    2,
+    66,
+    5
+  ],
+  "basement_centre": [
+    -2,
+    60,
+    0
+  ],
+  "basement_wake": [
+    -5,
+    60,
+    -2
+  ],
+  "attic_hatch": [
+    0,
+    68,
+    -1
+  ],
+  "attic_peek": [
+    0,
+    69,
+    -1
+  ],
+  "cellar_door": [
+    2,
+    65,
+    2
+  ],
+  "cellar_behind": [
+    2,
+    64,
+    1
+  ],
+  "chimney": [
+    -10,
+    79,
+    2
+  ],
+  "gate": [
+    2,
+    64,
+    43
+  ],
+  "gate_facing": "north",
+  "spawn": [
+    2.0,
+    64.25,
+    41.3
+  ],
+  "spawn_yaw": 180.0,
+  "ground": 63,
+  "floor": 64,
+  "cabin_bounds": [
+    -9,
+    59,
+    -6,
+    9,
+    76,
+    6
+  ],
+  "basement_y": [
+    59,
+    63
+  ],
+  "lamps": [
+    [
+      5,
+      63,
+      1
+    ],
+    [
+      -6,
+      63,
+      2
+    ],
+    [
+      -4,
+      67,
+      2
+    ],
+    [
+      -2,
+      67,
+      0
+    ],
+    [
+      5,
+      67,
+      3
+    ],
+    [
+      -6,
+      67,
+      -4
+    ],
+    [
+      0,
+      67,
+      -4
+    ],
+    [
+      6,
+      67,
+      -4
+    ],
+    [
+      0,
+      72,
+      1
+    ]
+  ],
+  "windows": [
+    {
+      "pos": [
+        -6,
+        66,
+        6
+      ],
+      "out": "south",
+      "width": 2,
+      "height": 2,
+      "room": "living"
+    },
+    {
+      "pos": [
+        6,
+        66,
+        6
+      ],
+      "out": "south",
+      "width": 2,
+      "height": 2,
+      "room": "kitchen"
+    },
+    {
+      "pos": [
+        -9,
+        66,
+        5
+      ],
+      "out": "west",
+      "width": 1,
+      "height": 2,
+      "room": "living"
+    },
+    {
+      "pos": [
+        9,
+        66,
+        -1
+      ],
+      "out": "east",
+      "width": 1,
+      "height": 2,
+      "room": "kitchen"
+    },
+    {
+      "pos": [
+        -6,
+        66,
+        -6
+      ],
+      "out": "north",
+      "width": 1,
+      "height": 2,
+      "room": "bedroom_a"
+    },
+    {
+      "pos": [
+        -9,
+        66,
+        -4
+      ],
+      "out": "west",
+      "width": 1,
+      "height": 2,
+      "room": "bedroom_a"
+    },
+    {
+      "pos": [
+        -1,
+        66,
+        -6
+      ],
+      "out": "north",
+      "width": 1,
+      "height": 2,
+      "room": "bedroom_b"
+    },
+    {
+      "pos": [
+        6,
+        66,
+        -6
+      ],
+      "out": "north",
+      "width": 1,
+      "height": 2,
+      "room": "bedroom_c"
+    },
+    {
+      "pos": [
+        9,
+        66,
+        -4
+      ],
+      "out": "east",
+      "width": 1,
+      "height": 2,
+      "room": "bedroom_c"
+    }
+  ],
+  "beds": [
+    {
+      "head": [
+        -7,
+        65,
+        -5
+      ],
+      "facing": "north",
+      "room": "bedroom_a"
+    },
+    {
+      "head": [
+        1,
+        65,
+        -5
+      ],
+      "facing": "north",
+      "room": "bedroom_b"
+    },
+    {
+      "head": [
+        7,
+        65,
+        -5
+      ],
+      "facing": "north",
+      "room": "bedroom_c"
+    }
+  ],
+  "presents": [
+    [
+      -7,
+      65,
+      -1
+    ],
+    [
+      -8,
+      65,
+      0
+    ],
+    [
+      -7,
+      65,
+      0
+    ],
+    [
+      -6,
+      65,
+      -1
+    ]
+  ],
+  "stockings": [
+    [
+      -7,
+      66,
+      2
+    ],
+    [
+      -7,
+      66,
+      1
+    ],
+    [
+      -7,
+      66,
+      3
+    ]
+  ],
+  "basement_stairs": [
+    [
+      2,
+      60,
+      -3
+    ],
+    [
+      2,
+      61,
+      -2
+    ],
+    [
+      2,
+      62,
+      -1
+    ],
+    [
+      2,
+      63,
+      0
+    ],
+    [
+      2,
+      64,
+      1
+    ]
+  ],
+  "roof_path": [
+    [
+      -8.5,
+      76.0,
+      0.5
+    ],
+    [
+      -6.5,
+      76.0,
+      0.5
+    ],
+    [
+      -4.5,
+      76.0,
+      0.5
+    ],
+    [
+      -2.5,
+      76.0,
+      0.5
+    ],
+    [
+      -0.5,
+      76.0,
+      0.5
+    ],
+    [
+      1.5,
+      76.0,
+      0.5
+    ],
+    [
+      3.5,
+      76.0,
+      0.5
+    ],
+    [
+      5.5,
+      76.0,
+      0.5
+    ],
+    [
+      7.5,
+      76.0,
+      0.5
+    ],
+    [
+      9.5,
+      76.0,
+      0.5
+    ]
+  ],
+  "path": [
+    [
+      -2,
+      64,
+      11
+    ],
+    [
+      -1,
+      64,
+      17
+    ],
+    [
+      -1,
+      64,
+      23
+    ],
+    [
+      1,
+      64,
+      29
+    ],
+    [
+      1,
+      64,
+      35
+    ],
+    [
+      2,
+      64,
+      40
+    ]
+  ],
+  "diaries": [
+    [
+      -8,
+      66,
+      -5
+    ],
+    [
+      2,
+      66,
+      -5
+    ],
+    [
+      8,
+      66,
+      -5
+    ],
+    [
+      6,
+      70,
+      -1
+    ]
+  ],
+  "heater": [
+    -7,
+    60,
+    2
+  ],
+  "coal_bin": [
+    14,
+    64,
+    1
+  ],
+  "chopping_block": [
+    12,
+    64,
+    4
+  ],
+  "workbench": [
+    -7,
+    60,
+    -2
+  ],
+  "offering": [
+    -6,
+    65,
+    0
+  ],
+  "stove": [
+    8,
+    65,
+    1
+  ],
+  "chore_list": [
+    8,
+    66,
+    2
+  ],
+  "patch": [
+    {
+      "pos": [
+        -7,
+        60,
+        2
+      ],
+      "state": "scp_unleashed:scp4666_boiler[facing=east,half=lower,heat=0]",
+      "since": 6
+    },
+    {
+      "pos": [
+        -7,
+        61,
+        2
+      ],
+      "state": "scp_unleashed:scp4666_boiler[facing=east,half=upper,heat=0]",
+      "since": 6
+    },
+    {
+      "pos": [
+        -7,
+        60,
+        0
+      ],
+      "state": "minecraft:barrel[facing=up,open=false]",
+      "since": 6
+    },
+    {
+      "pos": [
+        -7,
+        62,
+        2
+      ],
+      "state": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "since": 6
+    },
+    {
+      "pos": [
+        -7,
+        63,
+        2
+      ],
+      "state": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "since": 6
+    },
+    {
+      "pos": [
+        14,
+        64,
+        1
+      ],
+      "state": "scp_unleashed:scp4666_coal_bin[facing=west]",
+      "since": 6
+    },
+    {
+      "pos": [
+        14,
+        65,
+        1
+      ],
+      "state": "minecraft:air",
+      "since": 6
+    },
+    {
+      "pos": [
+        13,
+        64,
+        0
+      ],
+      "state": "minecraft:snow[layers=1]",
+      "since": 6
+    },
+    {
+      "pos": [
+        13,
+        64,
+        1
+      ],
+      "state": "minecraft:snow[layers=1]",
+      "since": 6
+    },
+    {
+      "pos": [
+        12,
+        64,
+        1
+      ],
+      "state": "minecraft:snow[layers=1]",
+      "since": 6
+    },
+    {
+      "pos": [
+        12,
+        64,
+        2
+      ],
+      "state": "minecraft:snow[layers=1]",
+      "since": 6
+    },
+    {
+      "pos": [
+        -3,
+        73,
+        2
+      ],
+      "state": "minecraft:dark_oak_planks",
+      "since": 7
+    },
+    {
+      "pos": [
+        -1,
+        73,
+        2
+      ],
+      "state": "minecraft:dark_oak_planks",
+      "since": 7
+    },
+    {
+      "pos": [
+        -3,
+        74,
+        2
+      ],
+      "state": "minecraft:snow[layers=5]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -1,
+        74,
+        2
+      ],
+      "state": "minecraft:snow[layers=5]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -2,
+        73,
+        4
+      ],
+      "state": "minecraft:stripped_spruce_log[axis=x]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -7,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        5,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        6,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -10,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        10,
+        65,
+        -1
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -10,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -1,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        6,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        10,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 7
+    },
+    {
+      "pos": [
+        -7,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        5,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        6,
+        65,
+        7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -10,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        10,
+        65,
+        -1
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -10,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -1,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        6,
+        65,
+        -7
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        10,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8
+    },
+    {
+      "pos": [
+        -7,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        5,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        6,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -8,
+        65,
+        5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -6,
+        65,
+        -5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -8,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -1,
+        65,
+        -5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        6,
+        65,
+        -5
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        8,
+        65,
+        -4
+      ],
+      "state": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        8,
+        66,
+        2
+      ],
+      "state": "scp_unleashed:scp4666_chore_list[facing=west]",
+      "since": 8,
+      "fill": true
+    },
+    {
+      "pos": [
+        -2,
+        70,
+        4
+      ],
+      "state": "minecraft:spruce_slab[type=top,waterlogged=false]",
+      "since": 9
+    },
+    {
+      "pos": [
+        10,
+        67,
+        4
+      ],
+      "state": "minecraft:air",
+      "since": 9
+    },
+    {
+      "pos": [
+        10,
+        67,
+        5
+      ],
+      "state": "minecraft:air",
+      "since": 9
+    },
+    {
+      "pos": [
+        2,
+        67,
+        7
+      ],
+      "state": "minecraft:air",
+      "since": 9
+    },
+    {
+      "pos": [
+        3,
+        67,
+        7
+      ],
+      "state": "scp_unleashed:scp4666_icicles[facing=north]",
+      "since": 9
+    },
+    {
+      "pos": [
+        10,
+        66,
+        4
+      ],
+      "state": "minecraft:snow[layers=2]",
+      "since": 9
+    },
+    {
+      "pos": [
+        10,
+        66,
+        5
+      ],
+      "state": "minecraft:snow[layers=2]",
+      "since": 9
+    },
+    {
+      "pos": [
+        2,
+        66,
+        7
+      ],
+      "state": "minecraft:snow[layers=2]",
+      "since": 9
+    },
+    {
+      "pos": [
+        3,
+        66,
+        7
+      ],
+      "state": "minecraft:snow[layers=2]",
+      "since": 9
+    },
+    {
+      "pos": [
+        -13,
+        67,
+        11
+      ],
+      "state": "minecraft:spruce_planks",
+      "since": 9
+    },
+    {
+      "pos": [
+        -12,
+        67,
+        11
+      ],
+      "state": "minecraft:spruce_planks",
+      "since": 9
+    },
+    {
+      "pos": [
+        -11,
+        67,
+        11
+      ],
+      "state": "minecraft:spruce_planks",
+      "since": 9
+    }
+  ],
+  "sills": [
+    [
+      -7,
+      65,
+      7
+    ],
+    [
+      -6,
+      65,
+      7
+    ],
+    [
+      5,
+      65,
+      7
+    ],
+    [
+      6,
+      65,
+      7
+    ],
+    [
+      -10,
+      65,
+      5
+    ],
+    [
+      10,
+      65,
+      -1
+    ],
+    [
+      -6,
+      65,
+      -7
+    ],
+    [
+      -10,
+      65,
+      -4
+    ],
+    [
+      -1,
+      65,
+      -7
+    ],
+    [
+      6,
+      65,
+      -7
+    ],
+    [
+      10,
+      65,
+      -4
+    ]
+  ],
+  "inner_sills": [
+    [
+      -7,
+      65,
+      5
+    ],
+    [
+      -6,
+      65,
+      5
+    ],
+    [
+      5,
+      65,
+      5
+    ],
+    [
+      6,
+      65,
+      5
+    ],
+    [
+      -8,
+      65,
+      5
+    ],
+    [
+      -6,
+      65,
+      -5
+    ],
+    [
+      -8,
+      65,
+      -4
+    ],
+    [
+      -1,
+      65,
+      -5
+    ],
+    [
+      6,
+      65,
+      -5
+    ],
+    [
+      8,
+      65,
+      -4
+    ]
+  ]
+}

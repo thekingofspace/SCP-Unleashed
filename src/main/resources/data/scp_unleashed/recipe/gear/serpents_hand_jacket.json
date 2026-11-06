@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:cyan_wool"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "S": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "C C",
+    "CLC",
+    "CSC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:serpents_hand_jacket"
+  }
+}

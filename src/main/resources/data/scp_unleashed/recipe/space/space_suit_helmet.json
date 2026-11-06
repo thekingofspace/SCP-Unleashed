@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:plates/aluminum"
+    },
+    "G": {
+      "tag": "c:plates/gold"
+    },
+    "R": {
+      "item": "scp_unleashed:rubber"
+    },
+    "C": {
+      "item": "scp_unleashed:advanced_circuit"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "AGA",
+    "RCR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:space_suit_helmet"
+  }
+}

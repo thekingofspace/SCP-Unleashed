@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "T": {
+      "item": "scp_unleashed:scp3008_steel_tube"
+    },
+    "F": {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    },
+    "L": {
+      "item": "scp_unleashed:scp3008_table_leg"
+    }
+  },
+  "pattern": [
+    "TFT",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_claw_hammer"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": {
+      "item": "scp_unleashed:reinforced_glass"
+    },
+    "V": {
+      "item": "scp_unleashed:lab_vial"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    }
+  },
+  "pattern": [
+    "GVG",
+    "GCG",
+    "SMS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:cloning_machine"
+  }
+}

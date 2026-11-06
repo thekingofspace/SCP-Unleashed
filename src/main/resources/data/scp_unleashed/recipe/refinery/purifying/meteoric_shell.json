@@ -1,0 +1,23 @@
+{
+  "type": "scp_unleashed:ore_purifying",
+  "ingredient": {
+    "item": "scp_unleashed:scp002_shell"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:meteor_dust",
+      "count": 2
+    },
+    {
+      "id": "scp_unleashed:meteor_dust",
+      "chance": 0.2
+    },
+    {
+      "id": "scp_unleashed:iron_dust",
+      "chance": 0.25
+    }
+  ],
+  "time": 200,
+  "water": 300,
+  "waste": 300
+}

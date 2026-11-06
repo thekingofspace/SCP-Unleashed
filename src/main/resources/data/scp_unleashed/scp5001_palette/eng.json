@@ -1,0 +1,186 @@
+{
+  "roles": {
+    "cable_ceiling": {
+      "kind": "ceiling",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_floating_cables",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_cable_tray",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_cable_drop",
+          "weight": 2
+        }
+      ]
+    },
+    "capacitor_bank": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_field_capacitor",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_capacitor_cabinet",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_cell_stack",
+          "weight": 2
+        }
+      ]
+    },
+    "conduit_floor": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_floor_conduit",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_floor_conduit_node",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_floor_vent",
+          "weight": 2
+        }
+      ]
+    },
+    "coolant_tank": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_tank",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_twin",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_reservoir",
+          "weight": 2
+        }
+      ]
+    },
+    "eng_clutter": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_resting_drone",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_spare_cells",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_tool_case",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_cable_coil",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_parts_crate",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_field_probe",
+          "weight": 1
+        }
+      ]
+    },
+    "pipe_ceiling": {
+      "kind": "ceiling",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_line_ceiling",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_pipe_junction_ceiling",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_valve_cluster_ceiling",
+          "weight": 2
+        }
+      ]
+    },
+    "pipe_wall": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_line_wall",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_pipe_manifold_wall",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_pressure_regulator",
+          "weight": 2
+        }
+      ]
+    },
+    "service_panel": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_diagnostic_panel",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_service_hatch",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_breaker_panel",
+          "weight": 2
+        }
+      ]
+    },
+    "tool_rack": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_tool_rack",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_cell_charger",
+          "weight": 2
+        }
+      ]
+    },
+    "transformer": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_eng_phase_transformer",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_step_transformer",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_resonance_coil",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_eng_coolant_pump",
+          "weight": 1
+        }
+      ]
+    }
+  }
+}

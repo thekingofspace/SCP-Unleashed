@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "tag": "c:storage_blocks/copper"
+    },
+    "D": {
+      "tag": "c:dusts/energum"
+    },
+    "A": {
+      "item": "scp_unleashed:capacitor"
+    },
+    "R": {
+      "item": "scp_unleashed:charged_redstone"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    }
+  },
+  "pattern": [
+    "CDC",
+    "ARA",
+    "K K"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:tesla_gate"
+  }
+}

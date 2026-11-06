@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:particle_disruptor",
+    "scp_unleashed:ultralaser",
+    "scp_unleashed:scp127_living_gun",
+    "scp_unleashed:micro_hid"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "pattern": [
+    "SGS",
+    "PCP",
+    "SMS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gas_compressor"
+  }
+}

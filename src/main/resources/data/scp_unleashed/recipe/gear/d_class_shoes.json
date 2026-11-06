@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "R": {
+      "item": "scp_unleashed:rubber"
+    }
+  },
+  "pattern": [
+    "W W",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:d_class_shoes"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.4845",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_4845",
+  "start_condition": {
+    "type": "scp4845_moon",
+    "min_distance": 240,
+    "max_distance": 520,
+    "accuracy": 32,
+    "arrival": 64
+  }
+}

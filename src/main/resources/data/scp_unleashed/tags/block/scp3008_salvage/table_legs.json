@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_food_table",
+    "scp_unleashed:scp3008_living_coffee_table",
+    "scp_unleashed:scp3008_living_side_table",
+    "scp_unleashed:scp3008_dining_table",
+    "scp_unleashed:scp3008_kitchen_island",
+    "scp_unleashed:scp3008_office_desk",
+    "scp_unleashed:scp3008_children_play_table",
+    "scp_unleashed:scp3008_outdoor_garden_table",
+    "scp_unleashed:scp3008_electronics_computer_desk"
+  ]
+}

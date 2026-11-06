@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_particleboard",
+    "scp_unleashed:scp3008_steel_tube",
+    "scp_unleashed:scp3008_hex_fittings",
+    "scp_unleashed:scp3008_fabric_scraps",
+    "scp_unleashed:scp3008_foam_filling",
+    "scp_unleashed:scp3008_cardboard",
+    "scp_unleashed:scp3008_acrylic_sheet",
+    "scp_unleashed:scp3008_led_bulb",
+    "scp_unleashed:scp3008_battery",
+    "scp_unleashed:scp3008_allen_key"
+  ]
+}

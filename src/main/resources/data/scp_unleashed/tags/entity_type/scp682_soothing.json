@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:scp999_blob",
+      "required": false
+    }
+  ]
+}

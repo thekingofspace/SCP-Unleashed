@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:space_suit_helmet",
+    "scp_unleashed:space_suit_chestplate",
+    "scp_unleashed:space_suit_leggings",
+    "scp_unleashed:space_suit_boots"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "tag": "c:slime_balls"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:rubber",
+      "count": 2
+    }
+  ],
+  "time": 160
+}

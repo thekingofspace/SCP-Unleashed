@@ -1,0 +1,30 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:advanced_outlet",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_severe",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:tether_outlet",
+    "count": 1
+  },
+  "time": 480
+}

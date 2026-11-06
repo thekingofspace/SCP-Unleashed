@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "#scp_unleashed:gate_avoiders",
+    "scp_unleashed:scp682",
+    "scp_unleashed:scp173",
+    "scp_unleashed:scp096_shy_guy",
+    "scp_unleashed:scp343",
+    "scp_unleashed:scp106_old_man",
+    "scp_unleashed:scp049",
+    "scp_unleashed:scp076",
+    "scp_unleashed:scp999_blob",
+    "scp_unleashed:scarlet_king",
+    "scp_unleashed:scp001",
+    "scp_unleashed:scp001_gate_guardian",
+    "scp_unleashed:scp1730_2",
+    "scp_unleashed:scp1730_2_contained"
+  ]
+}

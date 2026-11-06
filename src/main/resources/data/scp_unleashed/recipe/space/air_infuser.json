@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    }
+  },
+  "pattern": [
+    "SGS",
+    "MCM",
+    "SKS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:air_infuser"
+  }
+}

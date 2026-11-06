@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "scp_unleashed:rubber"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "G": {
+      "item": "minecraft:green_stained_glass_pane"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "P": {
+      "item": "scp_unleashed:lab_result_slip"
+    }
+  },
+  "pattern": [
+    "RIR",
+    "GCG",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp020_hyperspectral_goggles"
+  }
+}

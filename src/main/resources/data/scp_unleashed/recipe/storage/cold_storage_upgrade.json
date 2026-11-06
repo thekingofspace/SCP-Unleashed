@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:upgrade_template"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "scp_unleashed:copper_coil"
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:cold_storage_upgrade"
+  }
+}

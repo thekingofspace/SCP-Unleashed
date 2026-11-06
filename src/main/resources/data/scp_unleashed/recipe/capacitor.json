@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:copper_plate"
+    },
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    "PIP",
+    "W W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:capacitor"
+  }
+}

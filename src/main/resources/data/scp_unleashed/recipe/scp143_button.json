@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp143_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp143_button"
+  }
+}

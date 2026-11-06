@@ -1,0 +1,22 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:ingots/steel",
+      "count": 2
+    },
+    {
+      "tag": "c:dusts/energum",
+      "count": 5
+    },
+    {
+      "tag": "c:dusts/carbon",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:energum_alloy_ingot",
+    "count": 2
+  },
+  "time": 200
+}

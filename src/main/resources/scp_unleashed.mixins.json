@@ -1,0 +1,62 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.rai.scp_unleashed.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "scp5001.MekhaneTrackingMixin",
+    "scp001day.Scp001DayChunkMendMixin",
+    "scp001gate.Scp001GateTeleportMixin",
+    "scp902.Scp902PrivacyMixin",
+    "gametest.GameTestFilterMixin",
+    "worldend.WorldEndStorageAccessor",
+    "intro.IntroPrivacyMixin",
+    "scp4666.Scp4666DayTimeMixin",
+    "scp4666.Scp4666PrecipitationMixin",
+    "scp3008.Scp3008DayTimeMixin",
+    "cameras.CameraChunkViewMixin",
+    "cameras.CameraEntityTrackingMixin",
+    "cameras.CameraChunkSendMixin",
+    "scp268.Scp268ArmorSlotMixin",
+    "scp268.Scp268LivingEntityMixin",
+    "scp268.Scp268ShulkerBulletMixin",
+    "scp268.Scp268TargetingMixin",
+    "scp268.Scp268TrackingMixin",
+    "scp268.Scp268WardenMixin",
+    "anomaly.StatueEnemyMixin",
+    "anomaly.StatueTargetingMixin",
+    "anomaly.AnomalyItemEntityMixin",
+    "block.FluidProofMixin",
+    "fluid.LiquidSoundMixin",
+    "scp682.Scp682KillCommandMixin"
+  ],
+  "client": [
+    "scp001day.Scp001DayBlockChangeMixin",
+    "arrival.ArrivalGuiAccess",
+    "scp902.Scp902KeyboardMixin",
+    "scp2521.Scp2521KeyboardMixin",
+    "worldend.WorldEndKeyboardMixin",
+    "scp5001.XkSkyMixin",
+    "scp001scarlet.ScarletSkyMixin",
+    "scp5001.XkSunMixin",
+    "cameras.CameraChunkStorageMixin",
+    "guns.GunCarryLayerMixin",
+    "z0003.Z0003StatueRenderMixin",
+    "lang.ClientLanguageMixin",
+    "scp268.Scp268GhostMixin",
+    "WaterTintMixin",
+    "scp330.Scp330ArmsMixin",
+    "scp330.Scp330GlowMixin",
+    "scp330.Scp330OutlineMixin",
+    "scp217.Scp217GlowMixin",
+    "scp217.Scp217OutlineMixin",
+    "upgrade.SoundEngineMufflerMixin",
+    "upgrade.SoundPacketMufflerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

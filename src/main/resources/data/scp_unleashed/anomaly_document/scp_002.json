@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.002",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_002",
+  "start_condition": {
+    "type": "scp002_meteor",
+    "min_delay": 60,
+    "max_delay": 290,
+    "min_distance": 25,
+    "max_distance": 60
+  }
+}

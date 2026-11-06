@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "tag": "c:leathers"
+    },
+    "I": {
+      "tag": "c:plates/iron"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "Y": {
+      "tag": "c:dyes/yellow"
+    }
+  },
+  "pattern": [
+    "LIL",
+    "GYG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:site_guard_tactical_helmet"
+  }
+}

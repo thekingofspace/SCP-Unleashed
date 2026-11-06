@@ -1,0 +1,33 @@
+{
+  "type": "scp_unleashed:gun_crafting",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:gun_receiver",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:battery",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 4
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:micro_hid"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    "minecraft:elder_guardian",
+    "minecraft:warden",
+    {
+      "id": "#c:bosses",
+      "required": false
+    },
+    "scp_unleashed:scp019_drone",
+    "scp_unleashed:scp019_brute",
+    "scp_unleashed:scp003_alpha",
+    "scp_unleashed:stranger_figure",
+    {
+      "id": "scp_unleashed:vacant_body",
+      "required": false
+    },
+    "scp_unleashed:scp076",
+    "scp_unleashed:scp106_old_man",
+    "scp_unleashed:daevite_god",
+    "scp_unleashed:daevite_god_spirit",
+    "scp_unleashed:scp205_devil",
+    "scp_unleashed:scp303_doorman",
+    "scp_unleashed:scp323",
+    "scp_unleashed:scp343",
+    "scp_unleashed:scp372",
+    "scp_unleashed:scp354_grasp",
+    "scp_unleashed:scp407_sprout",
+    "scp_unleashed:scp407_titan",
+    "scp_unleashed:scp428_instance",
+    "scp_unleashed:scp439_hive",
+    "scp_unleashed:scp465_instance",
+    "scp_unleashed:scp538_shadow_spider",
+    "scp_unleashed:scp4845_employee",
+    "scp_unleashed:scp902_copy",
+    "scp_unleashed:scp1762_wyvern",
+    "scp_unleashed:scp1762_wyrm",
+    "scp_unleashed:scp1762_drake",
+    "scp_unleashed:scp1762_dragon",
+    "scp_unleashed:z0004_ship",
+    "scp_unleashed:scp3199_egg"
+  ]
+}

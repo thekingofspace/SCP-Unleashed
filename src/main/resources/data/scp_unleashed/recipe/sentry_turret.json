@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": {
+      "item": "scp_unleashed:long_barrel"
+    },
+    "F": {
+      "item": "scp_unleashed:firing_mechanism"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    }
+  },
+  "pattern": [
+    "SBS",
+    "MFM",
+    "SCS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sentry_turret"
+  }
+}

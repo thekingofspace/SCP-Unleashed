@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:network_hub",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:computer",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:ultimate_wire",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 4
+    },
+    {
+      "tag": "c:plates/gold",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:scranton_reality_anchor",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:orbital_targeting_core",
+    "count": 1
+  },
+  "time": 4000,
+  "power": 10.0
+}

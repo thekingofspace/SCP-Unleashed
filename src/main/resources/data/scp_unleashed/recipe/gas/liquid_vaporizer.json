@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "C": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "M": {
+      "item": "scp_unleashed:circuit_board"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "KCK",
+    "PMP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:liquid_vaporizer"
+  }
+}

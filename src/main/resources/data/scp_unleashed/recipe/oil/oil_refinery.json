@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "S": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    }
+  },
+  "pattern": [
+    "PHP",
+    "KBK",
+    "SCS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:oil_refinery"
+  }
+}

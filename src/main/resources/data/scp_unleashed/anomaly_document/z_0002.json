@@ -1,0 +1,12 @@
+{
+  "lang": "dossier.scp_unleashed.z0002",
+  "classification": "z_class",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 0.0,
+  "photo": "scp_unleashed:gui/archive/photo/z_0002",
+  "start_condition": {
+    "type": "z0002_procured"
+  }
+}

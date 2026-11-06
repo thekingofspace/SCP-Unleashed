@@ -1,0 +1,19 @@
+{
+  "lang": "dossier.scp_unleashed.073",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_073",
+  "start_condition": {
+    "type": "scp073_desert",
+    "min_delay": 10,
+    "check_interval": 5,
+    "chance": 0.1,
+    "min_desert": 20,
+    "max_desert": 150,
+    "min_distance": 24,
+    "max_distance": 48
+  }
+}

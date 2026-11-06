@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_bathroom_vanity",
+    "scp_unleashed:scp3008_bathroom_toilet",
+    "scp_unleashed:scp3008_bathroom_bathtub",
+    "scp_unleashed:scp3008_bathroom_shower",
+    "scp_unleashed:scp3008_bathroom_towel_ladder",
+    "scp_unleashed:scp3008_bathroom_mirror_cabinet",
+    "scp_unleashed:scp3008_bathroom_laundry_basket"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "scp_unleashed:blocks/scp019_pot",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp019_pot"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "scp_unleashed:scp019_pot",
+          "properties": {
+            "half": "lower"
+          }
+        }
+      ]
+    }
+  ]
+}

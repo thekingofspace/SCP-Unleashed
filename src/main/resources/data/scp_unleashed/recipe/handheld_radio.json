@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "pattern": [
+    " W ",
+    "ICI",
+    "INI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:handheld_radio"
+  }
+}

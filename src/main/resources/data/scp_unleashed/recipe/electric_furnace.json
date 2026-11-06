@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "KFK",
+    "ICI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:electric_furnace"
+  }
+}

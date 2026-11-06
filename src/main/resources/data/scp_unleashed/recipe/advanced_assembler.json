@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "T": {
+      "item": "minecraft:crafting_table"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    }
+  },
+  "pattern": [
+    "PGP",
+    "CTC",
+    "PMP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:advanced_assembler"
+  }
+}

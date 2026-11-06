@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "Y": {
+      "tag": "c:dyes/yellow"
+    },
+    "P": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "I I",
+    "IYI",
+    "IPI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:hazmat_suit"
+  }
+}

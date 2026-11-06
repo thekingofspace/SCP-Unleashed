@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "tag": "c:rods/steel"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "  P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:long_barrel"
+  }
+}

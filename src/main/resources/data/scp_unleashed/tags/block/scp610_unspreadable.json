@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#scp_unleashed:scp015_resistant",
+    "#scp_unleashed:scp682_unbreakable",
+    "#minecraft:wither_immune",
+    "#minecraft:dragon_immune",
+    "minecraft:bedrock",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:reinforced_deepslate",
+    "minecraft:barrier",
+    "minecraft:end_portal_frame",
+    "minecraft:respawn_anchor",
+    "minecraft:spawner",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine",
+    "scp_unleashed:scp5001_console_main",
+    "scp_unleashed:scp5001_generator",
+    "scp_unleashed:scp5001_generator_console",
+    "scp_unleashed:scp5001_rod_emitter",
+    "scp_unleashed:scp5001_laser_emitter",
+    "scp_unleashed:scp5001_chamber_core"
+  ]
+}

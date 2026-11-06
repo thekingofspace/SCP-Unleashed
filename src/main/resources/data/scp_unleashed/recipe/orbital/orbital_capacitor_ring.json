@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 64
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:ultimate_wire",
+      "count": 16
+    },
+    {
+      "tag": "c:storage_blocks/energum",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 16
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 32
+    },
+    {
+      "item": "scp_unleashed:reactive_material",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet",
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:orbital_capacitor_ring",
+    "count": 1
+  },
+  "time": 4000,
+  "power": 10.0
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "key": {
+    "T": {
+      "tag": "scp_unleashed:scp3008_gear/spear_tips"
+    },
+    "L": {
+      "item": "scp_unleashed:scp3008_table_leg"
+    }
+  },
+  "pattern": [
+    "  T",
+    " L ",
+    "L  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_table_leg_spear"
+  }
+}

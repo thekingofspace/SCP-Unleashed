@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_dragon",
+    "minecraft:wither",
+    {
+      "id": "#c:bosses",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:stranger_figure",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:vacant_body",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp001",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp017_shadow",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp076",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp087_face",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp106_old_man",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp173",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp205_devil",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp215_phantom",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp280_shade",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp280_eyes",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp303_doorman",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:daevite_god",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:daevite_god_spirit",
+      "required": false
+    },
+    {
+      "id": "#scp_unleashed:infection_immune",
+      "required": false
+    },
+    "scp_unleashed:scp3008_staff",
+    "scp_unleashed:scp4845_employee"
+  ]
+}

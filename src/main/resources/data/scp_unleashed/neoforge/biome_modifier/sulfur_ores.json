@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "scp_unleashed:sulfur_ore",
+    "scp_unleashed:sulfur_ore_deep"
+  ],
+  "step": "underground_ores"
+}

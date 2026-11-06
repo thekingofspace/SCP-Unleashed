@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "decals",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 1
+  },
+  "extra": {
+    "tag": "c:slime_balls",
+    "count": 1
+  },
+  "result": {
+    "count": 6,
+    "id": "scp_unleashed:decal_strange_fluid"
+  }
+}

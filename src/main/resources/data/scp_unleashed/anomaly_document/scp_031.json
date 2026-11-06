@@ -1,0 +1,19 @@
+{
+  "lang": "dossier.scp_unleashed.031",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_031",
+  "start_condition": {
+    "type": "scp031_village",
+    "max_distance": 1600,
+    "accuracy": 32,
+    "arrival": 64,
+    "fallback_min": 300,
+    "fallback_max": 800,
+    "min_count": 2,
+    "max_count": 3
+  }
+}

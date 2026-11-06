@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "trinitite_shard",
+  "ingredient": {
+    "item": "scp_unleashed:trinitite_ore"
+  },
+  "result": {
+    "id": "scp_unleashed:trinitite_shard"
+  }
+}

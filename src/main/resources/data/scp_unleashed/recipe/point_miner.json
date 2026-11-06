@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "K": {
+      "item": "scp_unleashed:capacitor"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    "PAP",
+    "MCM",
+    "WKW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:point_miner"
+  }
+}

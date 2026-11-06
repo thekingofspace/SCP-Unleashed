@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "building",
+  "material": {
+    "item": "scp_unleashed:decorative_concrete",
+    "count": 1
+  },
+  "extra": {
+    "tag": "c:glass_panes/colorless",
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:research_wall_window"
+  }
+}

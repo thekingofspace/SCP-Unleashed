@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "Q": {
+      "tag": "c:gems/quartz"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "K": {
+      "item": "scp_unleashed:capacitor"
+    }
+  },
+  "pattern": [
+    "PQP",
+    "WCW",
+    "PKP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:chat_server"
+  }
+}

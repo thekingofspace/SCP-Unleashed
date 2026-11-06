@@ -1,0 +1,10 @@
+{
+  "type": "scp_unleashed:moon_boulder",
+  "config": {
+    "count": {
+      "type": "minecraft:uniform",
+      "min_inclusive": 1,
+      "max_inclusive": 2
+    }
+  }
+}

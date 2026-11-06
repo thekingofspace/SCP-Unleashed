@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "trinitite_shard",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:trinitite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "scp_unleashed:trinitite_shard"
+  }
+}

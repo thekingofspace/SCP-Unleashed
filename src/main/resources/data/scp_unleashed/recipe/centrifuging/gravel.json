@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "tag": "c:gravels"
+  },
+  "results": [
+    {
+      "id": "minecraft:flint"
+    },
+    {
+      "id": "minecraft:iron_nugget",
+      "chance": 0.15
+    }
+  ],
+  "time": 160
+}

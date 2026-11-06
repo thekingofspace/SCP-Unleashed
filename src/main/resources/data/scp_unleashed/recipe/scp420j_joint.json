@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp420j_leaf"
+    },
+    {
+      "item": "scp_unleashed:scp420j_leaf"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:scp420j_joint",
+    "count": 1
+  }
+}

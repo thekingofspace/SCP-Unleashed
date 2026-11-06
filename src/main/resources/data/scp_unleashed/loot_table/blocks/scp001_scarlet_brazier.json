@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "scp_unleashed:blocks/scp001_scarlet_brazier",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:scp001_scarlet_brazier"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

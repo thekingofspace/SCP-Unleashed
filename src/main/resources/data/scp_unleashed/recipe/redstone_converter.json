@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    },
+    "Q": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "WCW",
+    "IQI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:redstone_converter"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "values": [
+    "scp_unleashed:circuit_board",
+    "scp_unleashed:advanced_circuit",
+    "scp_unleashed:capacitor",
+    "scp_unleashed:electric_motor",
+    "scp_unleashed:superconductor_coil",
+    "scp_unleashed:copper_wire",
+    "scp_unleashed:wire_coil",
+    "scp_unleashed:advanced_wire",
+    "scp_unleashed:tether_wire",
+    "scp_unleashed:super_heavy_wire",
+    "scp_unleashed:ultimate_wire"
+  ]
+}

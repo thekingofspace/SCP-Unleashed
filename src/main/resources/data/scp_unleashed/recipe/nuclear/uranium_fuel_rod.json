@@ -1,0 +1,22 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:ingots/uranium",
+      "count": 4
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 2
+    },
+    {
+      "tag": "c:rods/steel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:uranium_fuel_rod",
+    "count": 1
+  },
+  "time": 400
+}

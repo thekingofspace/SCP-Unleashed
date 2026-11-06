@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    },
+    "T": {
+      "item": "scp_unleashed:scp3008_steel_tube"
+    },
+    "A": {
+      "item": "scp_unleashed:scp3008_acrylic_sheet"
+    }
+  },
+  "pattern": [
+    "  F",
+    " T ",
+    "A  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_flatpack_screwdriver"
+  }
+}

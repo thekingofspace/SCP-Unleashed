@@ -1,0 +1,23 @@
+{
+  "type": "scp_unleashed:scp3008_store",
+  "generator": {
+    "type": "scp_unleashed:scp3008_store",
+    "biome_source": {
+      "type": "scp_unleashed:scp3008_departments",
+      "departments": {
+        "living": "scp_unleashed:scp3008_living",
+        "dining": "scp_unleashed:scp3008_dining",
+        "kitchen": "scp_unleashed:scp3008_kitchen",
+        "bedroom": "scp_unleashed:scp3008_bedroom",
+        "bathroom": "scp_unleashed:scp3008_bathroom",
+        "office": "scp_unleashed:scp3008_office",
+        "children": "scp_unleashed:scp3008_children",
+        "lighting": "scp_unleashed:scp3008_lighting",
+        "textiles": "scp_unleashed:scp3008_textiles",
+        "outdoor": "scp_unleashed:scp3008_outdoor",
+        "warehouse": "scp_unleashed:scp3008_warehouse",
+        "electronics": "scp_unleashed:scp3008_electronics"
+      }
+    }
+  }
+}

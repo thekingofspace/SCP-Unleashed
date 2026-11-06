@@ -1,0 +1,32 @@
+{
+  "lang": "dossier.scp_unleashed.020",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 2,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_020",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp020",
+    "gift": [
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp020"
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp020.0",
+      "archive.scp_unleashed.notes.scp020.1"
+    ]
+  }
+}

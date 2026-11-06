@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.2845",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_2845",
+  "start_condition": {
+    "type": "scp2845_comet",
+    "min_delay": 120,
+    "max_delay": 480,
+    "min_distance": 30,
+    "max_distance": 60
+  }
+}

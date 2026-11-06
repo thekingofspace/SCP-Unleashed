@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "G": {
+      "item": "scp_unleashed:metal_grate"
+    },
+    "C": {
+      "item": "minecraft:cauldron"
+    }
+  },
+  "pattern": [
+    "PKP",
+    "GCG",
+    "PGP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:fluid_dump"
+  }
+}

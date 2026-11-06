@@ -1,0 +1,12 @@
+{
+  "kind": "item",
+  "item": {
+    "id": "scp_unleashed:lab_vial",
+    "count": 8
+  },
+  "price": 16,
+  "description": {
+    "translate": "shop.scp_unleashed.sample_vials.description"
+  },
+  "order": 200
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "D": {
+      "tag": "c:dyes/green"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "R": {
+      "item": "scp_unleashed:rubber"
+    },
+    "C": {
+      "tag": "c:dusts/carbon"
+    }
+  },
+  "pattern": [
+    "PDP",
+    "GRG",
+    "C C"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:chaos_insurgency_helmet"
+  }
+}

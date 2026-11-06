@@ -1,0 +1,27 @@
+{
+  "type": "scp_unleashed:ore_purifying",
+  "ingredient": {
+    "tag": "c:raw_materials/bauxite"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:aluminium_dust",
+      "count": 3
+    },
+    {
+      "id": "scp_unleashed:aluminium_dust",
+      "chance": 0.15
+    },
+    {
+      "id": "minecraft:redstone",
+      "count": 2,
+      "chance": 0.3
+    },
+    {
+      "id": "minecraft:cobblestone"
+    }
+  ],
+  "time": 160,
+  "water": 250,
+  "waste": 250
+}

@@ -1,0 +1,207 @@
+{
+  "roles": {
+    "bunk": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_sleep_pod",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_bunk_frame",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_rest_cradle",
+          "weight": 1
+        }
+      ]
+    },
+    "locker": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_locker",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_locker_twin",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_locker_open",
+          "weight": 2
+        }
+      ]
+    },
+    "mess_table": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_table_hex",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_table_long",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_table_square",
+          "weight": 2
+        }
+      ]
+    },
+    "mess_seat": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_stool",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_chair",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_mess_bench",
+          "weight": 2
+        }
+      ]
+    },
+    "galley_unit": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_galley_dispenser",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_galley_counter",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_galley_cooler",
+          "weight": 2
+        }
+      ]
+    },
+    "med_bed": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_med_bed_scanner",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_med_recliner",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_med_cot",
+          "weight": 2
+        }
+      ]
+    },
+    "med_cabinet": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_med_cabinet",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_med_dispenser",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_med_monitor",
+          "weight": 2
+        }
+      ]
+    },
+    "crate": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_crate_sealed",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_crate_stack",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_crate_canister",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_crate_open",
+          "weight": 2
+        }
+      ]
+    },
+    "shelf": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_shelf_storage",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_shelf_hex",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_shelf_rack",
+          "weight": 2
+        }
+      ]
+    },
+    "hab_clutter": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_data_slates",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_meal_tray",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_personal_effects",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_canister_pair",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_med_kit",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_bedroll",
+          "weight": 1
+        }
+      ]
+    },
+    "drone_dock": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_hab_drone_dock",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_drone_dock_medical",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_hab_drone_dock_empty",
+          "weight": 1
+        }
+      ]
+    }
+  }
+}

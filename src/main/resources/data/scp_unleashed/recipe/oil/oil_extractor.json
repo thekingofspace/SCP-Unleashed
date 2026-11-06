@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "R": {
+      "tag": "c:rods/steel"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "S": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    }
+  },
+  "pattern": [
+    "RAR",
+    "PMP",
+    "SKS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:oil_extractor"
+  }
+}

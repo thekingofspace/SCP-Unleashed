@@ -1,0 +1,60 @@
+{
+  "lang": "dossier.scp_unleashed.129",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_129",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp129",
+    "gift": [
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp129_1"
+        }
+      },
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp129_2"
+        }
+      },
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp129_3"
+        }
+      },
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp129_4"
+        }
+      },
+      {
+        "item": "scp_unleashed:lab_vial",
+        "count": 1,
+        "components": {
+          "scp_unleashed:labware_sample": "scp_unleashed:scp129_5"
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp129.0",
+      "archive.scp_unleashed.notes.scp129.1"
+    ]
+  }
+}

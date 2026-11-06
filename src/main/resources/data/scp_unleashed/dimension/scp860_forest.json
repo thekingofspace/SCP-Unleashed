@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:scp860_forest",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "scp_unleashed:scp860_forest",
+      "layers": [],
+      "lakes": false,
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "lang": "dossier.scp_unleashed.205",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_205",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp205",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp205_lamp",
+        "count": 2
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp205.0",
+      "archive.scp_unleashed.notes.scp205.1"
+    ]
+  }
+}

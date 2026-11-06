@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "scp_unleashed:trinitite_ore_upper",
+    "scp_unleashed:trinitite_ore_middle",
+    "scp_unleashed:trinitite_ore_small"
+  ],
+  "step": "underground_ores"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "fuel_canister",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:light_fuel_bucket"
+    },
+    {
+      "item": "scp_unleashed:empty_canister"
+    },
+    {
+      "item": "scp_unleashed:empty_canister"
+    },
+    {
+      "item": "scp_unleashed:empty_canister"
+    },
+    {
+      "item": "scp_unleashed:empty_canister"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:fuel_canister"
+  }
+}

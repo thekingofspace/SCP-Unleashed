@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_led_bulb"
+    },
+    {
+      "item": "scp_unleashed:scp3008_acrylic_sheet"
+    },
+    {
+      "item": "scp_unleashed:scp3008_battery"
+    },
+    {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_battery_lantern"
+  }
+}

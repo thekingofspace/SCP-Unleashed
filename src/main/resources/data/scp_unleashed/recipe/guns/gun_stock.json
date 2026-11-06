@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "scp_unleashed:rubber"
+    },
+    "L": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "BLL",
+    " LL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gun_stock"
+  }
+}

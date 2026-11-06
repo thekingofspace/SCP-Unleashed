@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "K": {
+      "item": "minecraft:black_dye"
+    },
+    "D": {
+      "item": "scp_unleashed:room_door"
+    }
+  },
+  "pattern": [
+    "IYI",
+    "PDP",
+    "IKI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:containment_room_door"
+  }
+}

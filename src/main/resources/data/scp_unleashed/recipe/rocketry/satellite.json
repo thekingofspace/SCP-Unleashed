@@ -1,0 +1,43 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:rocket_engine",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:solar_panel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 8
+    },
+    {
+      "tag": "c:plates/gold",
+      "count": 8
+    },
+    {
+      "tag": "c:plates/aluminum",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 8
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:satellite",
+    "count": 1
+  },
+  "time": 1800,
+  "power": 5.0
+}

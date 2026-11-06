@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:entity",
+  "random_sequence": "scp_unleashed:entities/daevite_god",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scp_unleashed:daevite_god_crown"
+        }
+      ]
+    }
+  ]
+}

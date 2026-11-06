@@ -1,0 +1,17 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "item": "scp_unleashed:depleted_fuel_rod"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:steel_plate",
+      "count": 2
+    },
+    {
+      "id": "scp_unleashed:uranium_ingot",
+      "chance": 0.25
+    }
+  ],
+  "time": 400
+}

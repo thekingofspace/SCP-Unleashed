@@ -1,0 +1,140 @@
+{
+  "values": [
+    {
+      "id": "scp_unleashed:scp001",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp017_shadow",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp024_host",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp035_host",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp049",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp058_heart",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp066",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp073_cain",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp076",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp087_hunter",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp093_torso",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp096_shy_guy",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp106_old_man",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp173",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp178_watcher",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp205_devil",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp280_shade",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp303_doorman",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp323",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp337",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp343",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp352",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp372",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp407_sprout",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp407_titan",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp427_1",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp428",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp428_instance",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp439_hive",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp457",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:stranger_figure",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:daevite_god",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:daevite_god_spirit",
+      "required": false
+    },
+    "scp_unleashed:scp538_shadow_spider",
+    "scp_unleashed:scp3008_staff",
+    "scp_unleashed:scp4845_employee",
+    "#scp_unleashed:semi_immortal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:upgrade_template"
+    },
+    {
+      "item": "scp_unleashed:heating_element"
+    },
+    {
+      "tag": "c:plates/copper"
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:heated_storage_upgrade"
+  }
+}

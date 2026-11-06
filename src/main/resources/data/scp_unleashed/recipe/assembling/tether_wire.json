@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:ultimate_wire",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_severe",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:tether_wire",
+    "count": 2
+  },
+  "time": 480
+}

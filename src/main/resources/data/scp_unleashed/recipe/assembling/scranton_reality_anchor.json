@@ -1,0 +1,31 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 2
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:scranton_reality_anchor",
+    "count": 2
+  },
+  "time": 300,
+  "power": 2.0
+}

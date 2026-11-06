@@ -1,0 +1,223 @@
+{
+  "_help": [
+    "SCP-294 drinks for this world. The machine checks this list first, by name or alias, ignoring capitals.",
+    "name: what to type. aliases: other names. display: the cup's full name, default Cup of <name>. colour: #RRGGBB.",
+    "message: shown on drinking, plain text or a translation key. refuse: true makes the machine answer OUT OF RANGE.",
+    "effects: a list like {\"id\": \"minecraft:speed\", \"seconds\": 30, \"amplifier\": 0}. Actions run first, then effects.",
+    "actions: a list of {\"type\": ...}: heal amount, damage amount death_message, ignite seconds, levitate seconds amplifier,",
+    "teleport_random radius, clear_effects, feed food saturation, extinguish, glow seconds, explode power (never breaks blocks),",
+    "vanish seconds, arsenic, sound id volume pitch, particles id count. %s in death_message is the drinker's name.",
+    "Bad entries are skipped with a warning in the server log. Apply changes with /scp_unleashed scp294 reload."
+  ],
+  "version": 1,
+  "drinks": [
+    {
+      "name": "coffee",
+      "aliases": ["black coffee", "espresso", "americano", "joe"],
+      "colour": "#3B2416",
+      "message": "message.scp_unleashed.scp294.drink.coffee",
+      "effects": [
+        {"id": "minecraft:speed", "seconds": 120, "amplifier": 0},
+        {"id": "minecraft:haste", "seconds": 120, "amplifier": 0}
+      ]
+    },
+    {
+      "name": "hot chocolate",
+      "aliases": ["cocoa", "hot cocoa", "drinking chocolate"],
+      "colour": "#6B3A21",
+      "message": "message.scp_unleashed.scp294.drink.hot_chocolate",
+      "effects": [
+        {"id": "minecraft:regeneration", "seconds": 12, "amplifier": 0},
+        {"id": "minecraft:absorption", "seconds": 60, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "extinguish"},
+        {"type": "feed", "food": 3, "saturation": 2}
+      ]
+    },
+    {
+      "name": "a nice cup of tea",
+      "aliases": ["tea", "nice cup of tea", "builders tea", "english tea"],
+      "colour": "#9C5B2B",
+      "message": "message.scp_unleashed.scp294.drink.a_nice_cup_of_tea",
+      "effects": [
+        {"id": "minecraft:regeneration", "seconds": 20, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "clear_effects"},
+        {"type": "heal", "amount": 4}
+      ]
+    },
+    {
+      "name": "the ocean",
+      "aliases": ["ocean", "sea", "the sea", "sea water", "seawater", "salt water"],
+      "colour": "#1E6F8C",
+      "message": "message.scp_unleashed.scp294.drink.the_ocean",
+      "effects": [
+        {"id": "minecraft:water_breathing", "seconds": 180, "amplifier": 0},
+        {"id": "minecraft:dolphins_grace", "seconds": 45, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "sound", "id": "scp_unleashed:scp294_waves", "volume": 0.8, "pitch": 1.0},
+        {"type": "particles", "id": "minecraft:splash", "count": 30}
+      ]
+    },
+    {
+      "name": "starlight",
+      "aliases": ["star light", "liquid starlight", "stars", "starshine"],
+      "colour": "#C8D4FF",
+      "message": "message.scp_unleashed.scp294.drink.starlight",
+      "effects": [
+        {"id": "minecraft:night_vision", "seconds": 300, "amplifier": 0},
+        {"id": "minecraft:slow_falling", "seconds": 20, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "particles", "id": "minecraft:end_rod", "count": 24},
+        {"type": "sound", "id": "scp_unleashed:scp294_sparkle", "volume": 0.8, "pitch": 1.0}
+      ]
+    },
+    {
+      "name": "courage",
+      "aliases": ["bravery", "valour", "valor", "nerve"],
+      "colour": "#D9622B",
+      "message": "message.scp_unleashed.scp294.drink.courage",
+      "effects": [
+        {"id": "minecraft:strength", "seconds": 60, "amplifier": 0},
+        {"id": "minecraft:resistance", "seconds": 60, "amplifier": 0},
+        {"id": "minecraft:absorption", "seconds": 60, "amplifier": 1}
+      ]
+    },
+    {
+      "name": "liquid luck",
+      "aliases": ["luck", "good luck", "fortune", "lucky"],
+      "colour": "#E8C140",
+      "message": "message.scp_unleashed.scp294.drink.liquid_luck",
+      "effects": [
+        {"id": "minecraft:luck", "seconds": 300, "amplifier": 1},
+        {"id": "minecraft:hero_of_the_village", "seconds": 300, "amplifier": 0}
+      ]
+    },
+    {
+      "name": "sleep",
+      "aliases": ["a nap", "nap", "drowsiness", "liquid sleep"],
+      "colour": "#3C4280",
+      "message": "message.scp_unleashed.scp294.drink.sleep",
+      "effects": [
+        {"id": "minecraft:slowness", "seconds": 15, "amplifier": 2},
+        {"id": "minecraft:mining_fatigue", "seconds": 15, "amplifier": 1},
+        {"id": "minecraft:darkness", "seconds": 8, "amplifier": 0},
+        {"id": "minecraft:regeneration", "seconds": 15, "amplifier": 1}
+      ]
+    },
+    {
+      "name": "silence",
+      "aliases": ["quiet", "hush", "liquid silence"],
+      "colour": "#D8DEE4",
+      "message": "message.scp_unleashed.scp294.drink.silence",
+      "effects": [
+        {"id": "minecraft:invisibility", "seconds": 45, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "particles", "id": "minecraft:white_ash", "count": 20}
+      ]
+    },
+    {
+      "name": "antigravity",
+      "aliases": ["anti gravity", "zero gravity", "zero g", "weightlessness"],
+      "colour": "#9EE6E0",
+      "message": "message.scp_unleashed.scp294.drink.antigravity",
+      "effects": [
+        {"id": "minecraft:slow_falling", "seconds": 30, "amplifier": 0},
+        {"id": "minecraft:jump_boost", "seconds": 30, "amplifier": 2}
+      ],
+      "actions": [
+        {"type": "levitate", "seconds": 3, "amplifier": 0},
+        {"type": "particles", "id": "minecraft:cloud", "count": 16}
+      ]
+    },
+    {
+      "name": "elsewhere",
+      "aliases": ["somewhere else", "away", "anywhere", "anywhere but here"],
+      "colour": "#7A4FA3",
+      "message": "message.scp_unleashed.scp294.drink.elsewhere",
+      "effects": [
+        {"id": "minecraft:nausea", "seconds": 6, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "particles", "id": "minecraft:portal", "count": 40},
+        {"type": "teleport_random", "radius": 24}
+      ]
+    },
+    {
+      "name": "liquid fire",
+      "aliases": ["fire", "flame", "flames", "molten fire"],
+      "colour": "#FF6A1A",
+      "message": "message.scp_unleashed.scp294.drink.liquid_fire",
+      "effects": [
+        {"id": "minecraft:fire_resistance", "seconds": 60, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "ignite", "seconds": 5},
+        {"type": "particles", "id": "minecraft:flame", "count": 20}
+      ]
+    },
+    {
+      "name": "rocket fuel",
+      "aliases": ["jet fuel", "fuel", "booster fuel"],
+      "colour": "#F2D22E",
+      "message": "message.scp_unleashed.scp294.drink.rocket_fuel",
+      "effects": [
+        {"id": "minecraft:speed", "seconds": 20, "amplifier": 2},
+        {"id": "minecraft:jump_boost", "seconds": 20, "amplifier": 1},
+        {"id": "minecraft:slow_falling", "seconds": 12, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "explode", "power": 1.0},
+        {"type": "ignite", "seconds": 2}
+      ]
+    },
+    {
+      "name": "rainbow",
+      "aliases": ["rainbows", "a rainbow", "liquid rainbow", "all the colours", "all the colors"],
+      "colour": "#E85AA8",
+      "message": "message.scp_unleashed.scp294.drink.rainbow",
+      "effects": [
+        {"id": "minecraft:glowing", "seconds": 30, "amplifier": 0},
+        {"id": "minecraft:speed", "seconds": 30, "amplifier": 0},
+        {"id": "minecraft:jump_boost", "seconds": 30, "amplifier": 0},
+        {"id": "minecraft:luck", "seconds": 30, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "particles", "id": "minecraft:note", "count": 20}
+      ]
+    },
+    {
+      "name": "arsenic",
+      "colour": "#C9C3A8",
+      "message": "message.scp_unleashed.scp294.drink.arsenic",
+      "effects": [
+        {"id": "minecraft:poison", "seconds": 20, "amplifier": 2},
+        {"id": "minecraft:nausea", "seconds": 15, "amplifier": 0},
+        {"id": "minecraft:weakness", "seconds": 30, "amplifier": 1},
+        {"id": "minecraft:slowness", "seconds": 30, "amplifier": 1}
+      ],
+      "actions": [
+        {"type": "damage", "amount": 16, "death_message": "death.attack.scp_unleashed.scp294_arsenic"},
+        {"type": "arsenic"}
+      ]
+    },
+    {
+      "name": "god",
+      "colour": "#FFFBEA",
+      "message": "message.scp_unleashed.scp294.drink.god",
+      "effects": [
+        {"id": "minecraft:levitation", "seconds": 8, "amplifier": 1},
+        {"id": "minecraft:glowing", "seconds": 8, "amplifier": 0}
+      ],
+      "actions": [
+        {"type": "sound", "id": "scp_unleashed:scp294_radiance", "volume": 1.0, "pitch": 1.0},
+        {"type": "vanish", "seconds": 6}
+      ]
+    }
+  ]
+}

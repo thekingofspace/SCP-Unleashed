@@ -1,0 +1,17 @@
+{
+  "lang": "dossier.scp_unleashed.001",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "archive_pool": "apocalyptic",
+  "photo": "scp_unleashed:gui/archive/photo/scp_001",
+  "start_condition": {
+    "type": "scp001_apocalypse",
+    "min_delay": 20,
+    "max_delay": 60,
+    "min_distance": 10,
+    "max_distance": 18
+  }
+}

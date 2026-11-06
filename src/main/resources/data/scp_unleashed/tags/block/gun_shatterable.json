@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#c:glass_blocks",
+    "#c:glass_panes",
+    "scp_unleashed:greenhouse_glass_wall_bottom",
+    "scp_unleashed:greenhouse_glass_wall_middle",
+    "scp_unleashed:greenhouse_glass_wall_top"
+  ]
+}

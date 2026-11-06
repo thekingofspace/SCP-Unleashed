@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "#scp_unleashed:scp096_rage_proof",
+    "#scp_unleashed:scp548_frost_proof",
+    "#scp_unleashed:scp001_singularity_proof",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine",
+    "scp_unleashed:scp5001_console_main",
+    "scp_unleashed:scp5001_generator",
+    "scp_unleashed:scp5001_generator_console",
+    "scp_unleashed:scp5001_rod_emitter",
+    "scp_unleashed:scp5001_laser_emitter",
+    "scp_unleashed:scp5001_chamber_core"
+  ]
+}

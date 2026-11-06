@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:vaporizing",
+  "input": {
+    "tag": "scp_unleashed:waste_water",
+    "amount": 100
+  },
+  "result": {
+    "gas": "scp_unleashed:toxic_gas",
+    "amount": 100
+  },
+  "time": 20,
+  "power": 40
+}

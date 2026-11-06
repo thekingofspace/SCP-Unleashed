@@ -1,0 +1,17 @@
+{
+  "values": {
+    "scp_unleashed:scp143_leaves": {
+      "chance": 0.3
+    },
+    "scp_unleashed:scp143_sapling": {
+      "chance": 0.3
+    },
+    "scp_unleashed:scp420j_seeds": {
+      "chance": 0.3,
+      "can_villager_compost": true
+    },
+    "scp_unleashed:scp420j_leaf": {
+      "chance": 0.5
+    }
+  }
+}

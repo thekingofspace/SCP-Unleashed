@@ -1,0 +1,12 @@
+{
+  "lang": "dossier.scp_unleashed.2521",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_2521",
+  "start_condition": {
+    "type": "scp2521_known"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "G": {
+      "tag": "c:glass_blocks/colorless"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "GGG",
+    "IGI"
+  ],
+  "result": {
+    "count": 5,
+    "id": "scp_unleashed:reinforced_glass"
+  }
+}

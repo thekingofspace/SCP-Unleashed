@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "pattern": [
+    "FRF",
+    "R R",
+    "F F"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sarkic_leggings"
+  }
+}

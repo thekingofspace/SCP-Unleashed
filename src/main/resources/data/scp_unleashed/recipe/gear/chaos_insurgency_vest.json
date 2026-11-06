@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "K": {
+      "tag": "c:dyes/black"
+    },
+    "D": {
+      "tag": "c:dyes/green"
+    }
+  },
+  "pattern": [
+    "L L",
+    "PKP",
+    "PDP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:chaos_insurgency_vest"
+  }
+}

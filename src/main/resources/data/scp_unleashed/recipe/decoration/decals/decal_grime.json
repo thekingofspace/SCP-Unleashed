@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "decals",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 1
+  },
+  "extra": {
+    "item": "minecraft:dirt",
+    "count": 1
+  },
+  "result": {
+    "count": 6,
+    "id": "scp_unleashed:decal_grime"
+  }
+}

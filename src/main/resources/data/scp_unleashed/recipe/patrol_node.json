@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    }
+  },
+  "pattern": [
+    "YRY",
+    "SSS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:patrol_node"
+  }
+}

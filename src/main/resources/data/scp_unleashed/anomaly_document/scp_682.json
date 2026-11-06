@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.682",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_682",
+  "start_condition": {
+    "type": "scp682_deep_water",
+    "min_distance": 192,
+    "max_distance": 480,
+    "accuracy": 24,
+    "arrival": 40
+  }
+}

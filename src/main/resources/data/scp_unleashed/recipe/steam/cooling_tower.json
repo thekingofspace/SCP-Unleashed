@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "H": {
+      "item": "minecraft:iron_bars"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    }
+  },
+  "pattern": [
+    "SPS",
+    "SHS",
+    "VKV"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:cooling_tower"
+  }
+}

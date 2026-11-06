@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "N": {
+      "tag": "c:nuggets/gold"
+    },
+    "I": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "W W",
+    "LNL",
+    "LIL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:site_guard_shirt"
+  }
+}

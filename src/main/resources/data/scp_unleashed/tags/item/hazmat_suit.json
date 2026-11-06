@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:hazmat_hood",
+    "scp_unleashed:hazmat_suit",
+    "scp_unleashed:hazmat_trousers",
+    "scp_unleashed:hazmat_boots"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "structures",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 3
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:power_exhaust_stack_bottom"
+  }
+}

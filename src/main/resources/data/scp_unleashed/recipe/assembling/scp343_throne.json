@@ -1,0 +1,39 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block",
+      "count": 24
+    },
+    {
+      "item": "minecraft:gold_block",
+      "count": 6
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 12
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 6
+    },
+    {
+      "tag": "c:plates/gold",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_severe",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:scp343_throne",
+    "count": 1
+  },
+  "time": 1200,
+  "power": 4.0
+}

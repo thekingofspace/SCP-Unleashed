@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "L": {
+      "tag": "c:plates/steel"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "P": {
+      "item": "scp_unleashed:pipe"
+    },
+    "T": {
+      "item": "scp_unleashed:tank"
+    },
+    "O": {
+      "item": "scp_unleashed:outlet"
+    },
+    "S": {
+      "tag": "c:storage_blocks/steel"
+    }
+  },
+  "pattern": [
+    "LAL",
+    "PTO",
+    "SLS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:satellite_platform"
+  }
+}

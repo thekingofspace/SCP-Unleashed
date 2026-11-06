@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/client/model/HumanoidModel$ArmPose",
+      "name": "SCP_UNLEASHED_PISTOL_LOW_READY",
+      "constructor": "(ZLnet/neoforged/neoforge/client/IArmPoseTransformer;)V",
+      "parameters": {
+        "class": "net/rai/scp_unleashed/guns/client/PlayerGunStance",
+        "field": "TwoHandedProxy"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/model/HumanoidModel$ArmPose",
+      "name": "SCP_UNLEASHED_PISTOL_LOW_READY_ONE_HAND",
+      "constructor": "(ZLnet/neoforged/neoforge/client/IArmPoseTransformer;)V",
+      "parameters": {
+        "class": "net/rai/scp_unleashed/guns/client/PlayerGunStance",
+        "field": "OneHandedProxy"
+      }
+    }
+  ]
+}

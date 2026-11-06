@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "R": {
+      "item": "scp_unleashed:steel_rod"
+    },
+    "I": {
+      "item": "scp_unleashed:insulation_sheet"
+    },
+    "H": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "pattern": [
+    "PRP",
+    "IHI",
+    "PYP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sealed_case"
+  }
+}

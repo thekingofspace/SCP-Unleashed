@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_textiles_rug_rolls",
+    "scp_unleashed:scp3008_textiles_cushion_bin",
+    "scp_unleashed:scp3008_textiles_curtain_rack",
+    "scp_unleashed:scp3008_textiles_duvet_stack"
+  ]
+}

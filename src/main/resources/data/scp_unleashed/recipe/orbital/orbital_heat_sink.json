@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:coolant_tower",
+      "count": 2
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 48
+    },
+    {
+      "tag": "c:plates/aluminum",
+      "count": 48
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:vent",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:pipe",
+      "count": 16
+    },
+    {
+      "tag": "c:storage_blocks/steel",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:orbital_heat_sink",
+    "count": 1
+  },
+  "time": 3600,
+  "power": 8.0
+}

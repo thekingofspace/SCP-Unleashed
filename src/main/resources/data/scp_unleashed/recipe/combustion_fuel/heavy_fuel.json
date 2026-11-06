@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:combustion_fuel",
+  "fuel": {
+    "fluid": "scp_unleashed:heavy_fuel"
+  },
+  "power": 480,
+  "burn_time": 1000,
+  "exhaust": {
+    "gas": "scp_unleashed:toxic_gas",
+    "amount": 2
+  }
+}

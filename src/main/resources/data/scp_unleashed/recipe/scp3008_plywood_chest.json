@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:scp3008_plywood"
+    },
+    "F": {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PFP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_plywood_chest"
+  }
+}

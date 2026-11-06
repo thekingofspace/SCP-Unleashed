@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "R": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "C": {
+      "item": "scp_unleashed:capacitor"
+    },
+    "B": {
+      "item": "scp_unleashed:battery"
+    },
+    "S": {
+      "tag": "c:plates/steel"
+    }
+  },
+  "pattern": [
+    "KRK",
+    "CBC",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:micro_charging_platform"
+  }
+}

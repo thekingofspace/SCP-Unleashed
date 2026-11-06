@@ -1,0 +1,17 @@
+{
+  "type": "scp_unleashed:distilling",
+  "input": {
+    "fluid": "scp_unleashed:oil",
+    "amount": 250
+  },
+  "top": {
+    "id": "scp_unleashed:light_oil",
+    "amount": 150
+  },
+  "bottom": {
+    "id": "scp_unleashed:heavy_oil",
+    "amount": 100
+  },
+  "time": 25,
+  "power": 96
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_shelf_short",
+    "scp_unleashed:scp3008_shelf_tall",
+    "scp_unleashed:scp3008_warehouse_flatpack_stack",
+    "scp_unleashed:scp3008_warehouse_pallet_stack",
+    "scp_unleashed:scp3008_warehouse_picking_trolley",
+    "scp_unleashed:scp3008_warehouse_aisle_sign"
+  ]
+}

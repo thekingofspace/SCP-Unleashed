@@ -1,0 +1,12 @@
+{
+  "kind": "item",
+  "item": {
+    "id": "scp_unleashed:lab_petri_dish",
+    "count": 4
+  },
+  "price": 20,
+  "description": {
+    "translate": "shop.scp_unleashed.petri_dishes.description"
+  },
+  "order": 220
+}

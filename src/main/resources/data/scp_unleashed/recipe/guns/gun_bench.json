@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "R": {
+      "tag": "c:rods/steel"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "RCR",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gun_bench"
+  }
+}

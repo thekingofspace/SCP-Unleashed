@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "scp_unleashed:unstable_fragment_wavering"
+    },
+    "C": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "V": {
+      "item": "scp_unleashed:unstable_fragment_volatile"
+    },
+    "T": {
+      "item": "scp_unleashed:upgrade_template"
+    }
+  },
+  "pattern": [
+    "WCW",
+    "VTV",
+    "WCW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp079_anomalous_upgrade"
+  }
+}

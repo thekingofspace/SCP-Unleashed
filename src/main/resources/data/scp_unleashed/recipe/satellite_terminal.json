@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "R": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "K": {
+      "item": "scp_unleashed:computer"
+    },
+    "S": {
+      "tag": "c:plates/steel"
+    },
+    "P": {
+      "item": "scp_unleashed:capacitor"
+    }
+  },
+  "pattern": [
+    " R ",
+    "CKC",
+    "SPS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:satellite_terminal"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "tag": "c:strings"
+    },
+    "W": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "SWS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:blindfold"
+  }
+}

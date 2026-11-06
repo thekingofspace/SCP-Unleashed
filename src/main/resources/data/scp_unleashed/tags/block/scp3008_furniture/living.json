@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_living_sofa",
+    "scp_unleashed:scp3008_living_armchair",
+    "scp_unleashed:scp3008_living_coffee_table",
+    "scp_unleashed:scp3008_living_side_table",
+    "scp_unleashed:scp3008_living_tv_bench",
+    "scp_unleashed:scp3008_living_bookcase",
+    "scp_unleashed:scp3008_living_cube_shelf",
+    "scp_unleashed:scp3008_living_rug"
+  ]
+}

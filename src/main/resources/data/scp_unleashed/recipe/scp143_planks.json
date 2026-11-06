@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "scp_unleashed:scp143_bladewood_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:scp143_planks"
+  }
+}

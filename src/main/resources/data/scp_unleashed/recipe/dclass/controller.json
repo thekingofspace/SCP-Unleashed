@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:end_rod"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CEC",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:controller"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:office_desk",
+    "scp_unleashed:corner_desk",
+    "scp_unleashed:metal_desk",
+    "scp_unleashed:lab_bench_desk",
+    "scp_unleashed:lab_table",
+    "scp_unleashed:conference_table",
+    "scp_unleashed:cafeteria_table",
+    "minecraft:crafting_table",
+    "minecraft:cartography_table",
+    "minecraft:fletching_table",
+    "minecraft:smithing_table"
+  ]
+}

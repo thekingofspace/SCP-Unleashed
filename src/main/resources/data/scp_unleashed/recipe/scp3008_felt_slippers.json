@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:scp3008_fabric_scraps"
+    },
+    "O": {
+      "item": "scp_unleashed:scp3008_foam_filling"
+    }
+  },
+  "pattern": [
+    "SS",
+    "OO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_felt_slippers"
+  }
+}

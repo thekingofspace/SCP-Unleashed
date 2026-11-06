@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:containment_single_door"
+    },
+    {
+      "tag": "c:storage_blocks/iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:single_blast_gate"
+  }
+}

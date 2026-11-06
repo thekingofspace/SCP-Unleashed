@@ -1,0 +1,12 @@
+{
+  "dimension": "minecraft:overworld",
+  "name": {
+    "translate": "destination.scp_unleashed.earth"
+  },
+  "icon": "scp_unleashed:textures/gui/rocketry/destination/earth.png",
+  "fuel": 8000,
+  "power": 200000,
+  "arrival_height": 180,
+  "gravity": 1.0,
+  "order": 0
+}

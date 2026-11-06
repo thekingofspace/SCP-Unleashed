@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "scp_unleashed:nuclear_uranium_ore",
+    "scp_unleashed:nuclear_thorium_ore"
+  ],
+  "step": "underground_ores"
+}

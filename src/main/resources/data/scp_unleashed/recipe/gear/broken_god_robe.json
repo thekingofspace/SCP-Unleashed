@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "pattern": [
+    "W W",
+    "PCP",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:broken_god_robe"
+  }
+}

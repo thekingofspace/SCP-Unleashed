@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:ingots/iron"
+    },
+    {
+      "item": "scp_unleashed:carbon_dust"
+    },
+    {
+      "item": "scp_unleashed:carbon_dust"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:steel_blend"
+  }
+}

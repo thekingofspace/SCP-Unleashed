@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    }
+  },
+  "pattern": [
+    "PGP",
+    "WCW",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:point_bank"
+  }
+}

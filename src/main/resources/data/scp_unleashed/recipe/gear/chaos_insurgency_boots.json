@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:green_wool"
+    },
+    "L": {
+      "tag": "c:leathers"
+    }
+  },
+  "pattern": [
+    "G G",
+    "L L"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:chaos_insurgency_boots"
+  }
+}

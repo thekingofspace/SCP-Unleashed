@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "T": {
+      "item": "minecraft:smithing_table"
+    },
+    "B": {
+      "tag": "c:storage_blocks/iron"
+    }
+  },
+  "pattern": [
+    "PCP",
+    "KTK",
+    "PBP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:advanced_materials_bench"
+  }
+}

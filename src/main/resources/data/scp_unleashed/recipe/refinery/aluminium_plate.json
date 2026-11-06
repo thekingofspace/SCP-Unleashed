@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:pressing",
+  "ingredient": {
+    "tag": "c:ingots/aluminum"
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:aluminium_plate"
+  },
+  "time": 60,
+  "die": "plate"
+}

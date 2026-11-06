@@ -1,0 +1,9 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:gas_mask",
+  "price": 60,
+  "description": {
+    "translate": "shop.scp_unleashed.gas_mask.description"
+  },
+  "order": 120
+}

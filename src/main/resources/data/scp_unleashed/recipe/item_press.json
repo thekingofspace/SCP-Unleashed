@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "KCK",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:item_press"
+  }
+}

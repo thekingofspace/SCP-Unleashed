@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:gun_spring"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "W": {
+      "item": "scp_unleashed:waste_water_bucket"
+    },
+    "G": {
+      "tag": "c:gunpowders"
+    }
+  },
+  "pattern": [
+    " S ",
+    "PWP",
+    " G "
+  ],
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:gas_grenade"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "lang": "dossier.scp_unleashed.001_gate",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "archive_pool": "apocalyptic",
+  "photo": "scp_unleashed:gui/archive/photo/scp_001_gate",
+  "start_condition": {
+    "type": "scp001_gate",
+    "min_distance": 1500,
+    "max_distance": 3000,
+    "accuracy": 64,
+    "sighting": 120
+  }
+}

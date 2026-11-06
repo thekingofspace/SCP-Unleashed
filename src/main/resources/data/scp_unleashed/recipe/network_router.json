@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "B": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "Q": {
+      "tag": "c:gems/quartz"
+    }
+  },
+  "pattern": [
+    "IQI",
+    "WBW",
+    "IWI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:network_router"
+  }
+}

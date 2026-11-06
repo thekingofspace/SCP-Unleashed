@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "C": {
+      "item": "minecraft:cauldron"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "KGK",
+    "PCP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gas_dissolver"
+  }
+}

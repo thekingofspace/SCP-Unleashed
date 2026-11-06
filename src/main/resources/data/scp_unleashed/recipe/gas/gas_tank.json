@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "PGP",
+    "PVP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gas_tank"
+  }
+}

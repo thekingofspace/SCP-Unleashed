@@ -1,0 +1,18 @@
+{
+  "lang": "dossier.scp_unleashed.075",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_075",
+  "start_condition": {
+    "type": "scp075_nightfall",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 16,
+    "max_distance": 32,
+    "min_group": 2,
+    "max_group": 3
+  }
+}

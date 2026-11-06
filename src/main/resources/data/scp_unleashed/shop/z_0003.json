@@ -1,0 +1,16 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:z0003_device",
+  "extras": [
+    {
+      "id": "scp_unleashed:z0003_vial",
+      "count": 1
+    }
+  ],
+  "price": 10000,
+  "document": "scp_unleashed:z_0003",
+  "description": {
+    "translate": "shop.scp_unleashed.z_0003.description"
+  },
+  "order": 1003
+}

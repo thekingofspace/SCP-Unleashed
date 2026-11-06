@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "K": {
+      "tag": "c:dyes/black"
+    },
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "pattern": [
+    "KLK",
+    "P P",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:chaos_insurgency_pants"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "lighting",
+  "material": {
+    "item": "scp_unleashed:decorative_concrete",
+    "count": 2
+  },
+  "extra": {
+    "tag": "c:dusts/glowstone",
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:facility_lamp_white"
+  }
+}

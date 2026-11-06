@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:advanced_wire",
+      "count": 2
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 3
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet",
+      "count": 2
+    },
+    {
+      "tag": "c:rods/steel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:super_heavy_wire",
+    "count": 2
+  },
+  "time": 160
+}

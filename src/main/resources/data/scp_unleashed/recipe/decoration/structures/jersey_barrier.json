@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "structures",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 4
+  },
+  "result": {
+    "count": 4,
+    "id": "scp_unleashed:jersey_barrier"
+  }
+}

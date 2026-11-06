@@ -1,0 +1,48 @@
+{
+  "type": "scp_unleashed:scp093_wastes",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "scp_unleashed:scp093_wastes",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "scp_unleashed:scp093_dry_plain",
+          "parameters": {
+            "temperature": 0.0,
+            "humidity": 0.0,
+            "continentalness": 0.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "scp_unleashed:scp093_dust_flats",
+          "parameters": {
+            "temperature": 0.45,
+            "humidity": -0.15,
+            "continentalness": 0.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "scp_unleashed:scp093_scrubland",
+          "parameters": {
+            "temperature": -0.35,
+            "humidity": 0.55,
+            "continentalness": 0.0,
+            "erosion": 0.0,
+            "weirdness": 0.0,
+            "depth": 0.0,
+            "offset": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

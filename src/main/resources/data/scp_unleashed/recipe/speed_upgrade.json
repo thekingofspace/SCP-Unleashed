@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:upgrade_template"
+    },
+    {
+      "item": "scp_unleashed:electric_motor"
+    },
+    {
+      "item": "scp_unleashed:charged_redstone"
+    },
+    {
+      "item": "scp_unleashed:copper_coil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:speed_upgrade"
+  }
+}

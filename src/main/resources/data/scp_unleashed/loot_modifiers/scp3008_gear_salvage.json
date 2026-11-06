@@ -1,0 +1,27 @@
+{
+  "type": "scp_unleashed:scp3008_gear_salvage",
+  "conditions": [
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:match_tool",
+        "predicate": {
+          "predicates": {
+            "minecraft:enchantments": [
+              {
+                "enchantments": "minecraft:silk_touch",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "table_legs_min": 2,
+  "table_legs_max": 3,
+  "cabinet_doors_min": 1,
+  "cabinet_doors_max": 2
+}

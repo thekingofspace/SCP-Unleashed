@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:rocket_engine",
+      "count": 2
+    },
+    {
+      "tag": "c:storage_blocks/steel",
+      "count": 8
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 32
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:plastic",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 8
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:rocket",
+    "count": 1
+  },
+  "time": 2400,
+  "power": 6.0
+}

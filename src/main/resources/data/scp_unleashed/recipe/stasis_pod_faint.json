@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "stasis_pod",
+  "pattern": [
+    " P ",
+    "GFG",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "tag": "c:glass_panes/colorless"
+    },
+    "F": {
+      "item": "scp_unleashed:unstable_fragment_faint"
+    }
+  },
+  "result": {
+    "id": "scp_unleashed:stasis_pod_faint",
+    "count": 1
+  }
+}

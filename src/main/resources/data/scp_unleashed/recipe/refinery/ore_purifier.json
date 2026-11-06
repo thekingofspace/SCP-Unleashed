@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "C": {
+      "item": "scp_unleashed:circuit_board"
+    }
+  },
+  "pattern": [
+    "PHP",
+    "BMB",
+    "PCP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:ore_purifier"
+  }
+}

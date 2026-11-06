@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chest_boat",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "scp_unleashed:scp143_boat"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp143_chest_boat"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:scp4666_winter",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "scp_unleashed:scp4666_winter_woods",
+      "layers": [],
+      "lakes": false,
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}

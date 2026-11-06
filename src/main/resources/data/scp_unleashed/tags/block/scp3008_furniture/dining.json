@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_dining_table",
+    "scp_unleashed:scp3008_dining_chair",
+    "scp_unleashed:scp3008_dining_bench",
+    "scp_unleashed:scp3008_dining_stool",
+    "scp_unleashed:scp3008_dining_sideboard",
+    "scp_unleashed:scp3008_dining_display_cabinet"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "structures",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 2
+  },
+  "result": {
+    "count": 6,
+    "id": "scp_unleashed:catwalk_slab"
+  }
+}

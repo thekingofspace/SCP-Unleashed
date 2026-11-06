@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.343",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_343",
+  "start_condition": {
+    "type": "scp343_arrival",
+    "min_delay": 60,
+    "max_delay": 240,
+    "min_distance": 6,
+    "max_distance": 16
+  }
+}

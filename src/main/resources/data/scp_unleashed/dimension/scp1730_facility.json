@@ -1,0 +1,10 @@
+{
+  "type": "scp_unleashed:scp1730_facility",
+  "generator": {
+    "type": "scp_unleashed:scp1730_facility",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "scp_unleashed:scp1730_facility"
+    }
+  }
+}

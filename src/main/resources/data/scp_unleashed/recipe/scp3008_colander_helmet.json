@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "T": {
+      "item": "scp_unleashed:scp3008_steel_tube"
+    },
+    "O": {
+      "item": "scp_unleashed:scp3008_foam_filling"
+    }
+  },
+  "pattern": [
+    "TOT",
+    "T T"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_colander_helmet"
+  }
+}

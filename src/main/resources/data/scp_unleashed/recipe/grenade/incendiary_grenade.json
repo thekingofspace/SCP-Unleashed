@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:gun_spring"
+    },
+    "A": {
+      "tag": "c:dusts/aluminum"
+    },
+    "G": {
+      "tag": "c:gunpowders"
+    },
+    "I": {
+      "tag": "c:dusts/iron"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    }
+  },
+  "pattern": [
+    " S ",
+    "AGI",
+    " P "
+  ],
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:incendiary_grenade"
+  }
+}

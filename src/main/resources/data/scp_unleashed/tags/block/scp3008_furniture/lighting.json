@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_lighting_pendant_lamp",
+    "scp_unleashed:scp3008_lighting_floor_lamp",
+    "scp_unleashed:scp3008_lighting_table_lamp",
+    "scp_unleashed:scp3008_lighting_lamp_display"
+  ]
+}

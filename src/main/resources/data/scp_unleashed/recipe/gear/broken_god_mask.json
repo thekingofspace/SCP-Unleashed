@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "K": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "PCP",
+    "K K"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:broken_god_mask"
+  }
+}

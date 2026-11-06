@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:ore_purifying",
+  "ingredient": {
+    "tag": "c:raw_materials/copper"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:copper_dust",
+      "count": 3
+    },
+    {
+      "id": "scp_unleashed:copper_dust",
+      "chance": 0.15
+    },
+    {
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "id": "scp_unleashed:gold_dust",
+      "chance": 0.05
+    }
+  ],
+  "time": 160,
+  "water": 250,
+  "waste": 250
+}

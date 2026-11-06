@@ -1,0 +1,77 @@
+package net.rai.scp_unleashed.scp610;
+
+public final class Scp610Gaits {
+    public static final Scp610Stride ApostleWalk = new Scp610Stride("walk", 1.5938, new float[]{0f, 0.5f});
+    public static final Scp610Stride ApostleRun = new Scp610Stride("run", 2.625, new float[]{0f, 0.5f});
+    public static final Scp610Stride VillagerWalk = new Scp610Stride("walk", 1.0563, new float[]{0f, 0.5f});
+    public static final Scp610Stride VillagerRun = new Scp610Stride("run", 1.7063, new float[]{0f, 0.5f});
+    public static final Scp610Stride PigWalk = new Scp610Stride("walk", 0.5, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride PigRun = new Scp610Stride("run", 0.875, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride CowWalk = new Scp610Stride("walk", 0.525, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride CowRun = new Scp610Stride("run", 0.9187, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride SheepWalk = new Scp610Stride("walk", 0.4125, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride SheepRun = new Scp610Stride("run", 0.7219, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride ChickenWalk = new Scp610Stride("walk", 0.25, new float[]{0f, 0.5f});
+    public static final Scp610Stride ChickenRun = new Scp610Stride("run", 0.425, new float[]{0f, 0.5f});
+    public static final Scp610Stride HorseWalk = new Scp610Stride("walk", 0.7188, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride HorseRun = new Scp610Stride("run", 1.2578, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride CrawlerWalk = new Scp610Stride("walk", 0.23, new float[]{0f, 0.5f, 0.5f, 0f, 0f, 0.5f});
+    public static final Scp610Stride CrawlerRun = new Scp610Stride("run", 0.35, new float[]{0f, 0.5f, 0.5f, 0f, 0f, 0.5f});
+    public static final Scp610Stride ShamblerWalk = new Scp610Stride("walk", 1.0938, new float[]{0f, 0.44f});
+    public static final Scp610Stride ShamblerRun = new Scp610Stride("run", 1.5625, new float[]{0f, 0.42f});
+    public static final Scp610Stride HulkWalk = new Scp610Stride("walk", 1.8375, new float[]{0f, 0.5f, 0.7f, 0.2f});
+    public static final Scp610Stride HulkRun = new Scp610Stride("run", 3.15, new float[]{0f, 0.1f, 0.5f, 0.6f});
+    public static final Scp610Stride AmalgamWalk = new Scp610Stride("walk", 0.6344, new float[]{0.66f, 0.16f, 0.33f, 0.83f, 0f, 0.5f});
+    public static final Scp610Stride AmalgamRun = new Scp610Stride("run", 0.8609, new float[]{0.66f, 0.16f, 0.33f, 0.83f, 0f, 0.5f});
+    public static final Scp610Stride ColossusWalk = new Scp610Stride("walk", 2.1969, new float[]{0f, 0.5f});
+    public static final Scp610Stride ColossusRun = new Scp610Stride("run", 3.4688, new float[]{0f, 0.5f});
+    public static final Scp610Stride HeraldWalk = new Scp610Stride("walk", 0.8156, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride HeraldRun = new Scp610Stride("run", 1.4273, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride TenderWalk = new Scp610Stride("walk", 0.3375, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride TenderRun = new Scp610Stride("run", 0.5906, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride WeaverWalk = new Scp610Stride("walk", 0.2969, new float[]{0f, 0.5f, 0.5f, 0f, 0f, 0.5f});
+    public static final Scp610Stride WeaverRun = new Scp610Stride("run", 0.4512, new float[]{0f, 0.5f, 0.5f, 0f, 0f, 0.5f});
+    public static final Scp610Stride HarvesterWalk = new Scp610Stride("walk", 0.55, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride HarvesterRun = new Scp610Stride("run", 0.9625, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride BurrowerWalk = new Scp610Stride("walk", 0.4375, new float[]{});
+    public static final Scp610Stride BurrowerRun = new Scp610Stride("run", 0.6875, new float[]{});
+    public static final Scp610Stride SporeBearerWalk = new Scp610Stride("walk", 0.625, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride SporeBearerRun = new Scp610Stride("run", 1, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride SiegeBruteWalk = new Scp610Stride("walk", 1.5312, new float[]{0f, 0.5f});
+    public static final Scp610Stride SiegeBruteRun = new Scp610Stride("run", 2.4062, new float[]{0f, 0.5f});
+    public static final Scp610Stride StalkerWalk = new Scp610Stride("walk", 0.625, new float[]{0.25f, 0.75f, 0f, 0.5f});
+    public static final Scp610Stride StalkerRun = new Scp610Stride("run", 1.0938, new float[]{0.45f, 0.55f, 0f, 0.1f});
+    public static final Scp610Stride SpitterWalk = new Scp610Stride("walk", 1.3, new float[]{0f, 0.5f});
+    public static final Scp610Stride SpitterRun = new Scp610Stride("run", 2.1125, new float[]{0f, 0.5f});
+    public static final Scp610Stride MatriarchWalk = new Scp610Stride("walk", 1.9688, new float[]{0f, 0.5f});
+    public static final Scp610Stride MatriarchRun = new Scp610Stride("run", 3.0625, new float[]{0f, 0.5f});
+    public static final float ApostleScale = 1.5f;
+    public static final float SpewerScale = 2f;
+    public static final float VillagerScale = 1.3f;
+    public static final float PigScale = 1f;
+    public static final float CowScale = 1.2f;
+    public static final float SheepScale = 1.1f;
+    public static final float ChickenScale = 0.8f;
+    public static final float HorseScale = 1.15f;
+    public static final float CrawlerScale = 0.8f;
+    public static final float ShamblerScale = 1.25f;
+    public static final float HulkScale = 2.1f;
+    public static final float AmalgamScale = 1.45f;
+    public static final float ColossusScale = 1.85f;
+    public static final float HeraldScale = 1.45f;
+    public static final float TendrilWormScale = 1.4f;
+    public static final float HiveLordScale = 3f;
+    public static final float TenderScale = 0.9f;
+    public static final float WeaverScale = 0.95f;
+    public static final float HarvesterScale = 1.1f;
+    public static final float BurrowerScale = 1f;
+    public static final float SporeBearerScale = 1f;
+    public static final float SiegeBruteScale = 1.75f;
+    public static final float StalkerScale = 1f;
+    public static final float SpitterScale = 1.3f;
+    public static final float MatriarchScale = 1.75f;
+    public static final float BroodSacScale = 1.4f;
+
+    private Scp610Gaits() {
+    }
+}

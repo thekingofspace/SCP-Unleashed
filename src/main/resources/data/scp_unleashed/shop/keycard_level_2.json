@@ -1,0 +1,9 @@
+{
+  "kind": "item",
+  "item": "scp_unleashed:keycard_level_2",
+  "price": 80,
+  "description": {
+    "translate": "shop.scp_unleashed.keycard_level_2.description"
+  },
+  "order": 110
+}

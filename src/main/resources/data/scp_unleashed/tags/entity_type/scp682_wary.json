@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:scp131_pod",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp529_cat",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp111_snail",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp075_snail",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp553_butterfly",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp327_pup",
+      "required": false
+    }
+  ]
+}

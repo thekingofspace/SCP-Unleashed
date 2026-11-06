@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "scp_unleashed:copper_plate"
+    },
+    "G": {
+      "item": "scp_unleashed:reinforced_glass"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "S": {
+      "item": "scp_unleashed:storage_container"
+    },
+    "B": {
+      "item": "minecraft:slime_ball"
+    },
+    "P": {
+      "item": "scp_unleashed:pipe"
+    }
+  },
+  "pattern": [
+    "CGC",
+    "KSK",
+    "BPB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:storage_container_gel"
+  }
+}

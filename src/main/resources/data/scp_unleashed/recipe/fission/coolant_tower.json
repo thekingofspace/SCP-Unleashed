@@ -1,0 +1,31 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 4
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:pipe",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:vent",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:mini_tank",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:coolant_tower",
+    "count": 1
+  },
+  "time": 400,
+  "power": 1.5
+}

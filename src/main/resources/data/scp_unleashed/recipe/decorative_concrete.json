@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "c:stones"
+    },
+    [
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay"
+      }
+    ]
+  ],
+  "result": {
+    "count": 10,
+    "id": "scp_unleashed:decorative_concrete"
+  }
+}

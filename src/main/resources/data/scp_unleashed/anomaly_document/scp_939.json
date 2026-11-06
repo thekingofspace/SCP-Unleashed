@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.939",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_939",
+  "start_condition": {
+    "type": "scp939_cave",
+    "min_distance": 48,
+    "max_distance": 160,
+    "accuracy": 16,
+    "arrival": 24
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:leaves",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:wheat",
+    "minecraft:wheat_seeds",
+    "minecraft:beetroot_seeds",
+    "minecraft:melon_seeds",
+    "minecraft:pumpkin_seeds",
+    "minecraft:torchflower_seeds",
+    "minecraft:kelp",
+    "minecraft:dried_kelp",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:melon_slice",
+    "minecraft:lily_pad",
+    "minecraft:vine",
+    "minecraft:short_grass",
+    "minecraft:fern",
+    "minecraft:seagrass",
+    "minecraft:moss_carpet",
+    {
+      "id": "#c:seeds",
+      "required": false
+    },
+    {
+      "id": "#c:foods/vegetable",
+      "required": false
+    }
+  ]
+}

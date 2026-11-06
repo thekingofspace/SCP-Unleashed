@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "S": {
+      "item": "scp_unleashed:silicon"
+    },
+    "P": {
+      "item": "scp_unleashed:copper_plate"
+    }
+  },
+  "pattern": [
+    " R ",
+    "SPS",
+    " R "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:circuit_board"
+  }
+}

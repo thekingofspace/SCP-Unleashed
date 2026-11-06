@@ -1,0 +1,29 @@
+{
+  "lang": "dossier.scp_unleashed.063",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_063",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp063",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp063_toothbrush",
+        "count": 1
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp063.0",
+      "archive.scp_unleashed.notes.scp063.1"
+    ]
+  }
+}

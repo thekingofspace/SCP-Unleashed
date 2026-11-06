@@ -1,0 +1,12 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "item": "minecraft:charcoal"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:carbon_dust"
+    }
+  ],
+  "time": 160
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "scp_unleashed:rubber"
+    },
+    "S": {
+      "tag": "c:plates/steel"
+    },
+    "T": {
+      "item": "minecraft:tinted_glass"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "Y": {
+      "tag": "c:gems/amethyst"
+    }
+  },
+  "pattern": [
+    "RSR",
+    "TAT",
+    " Y "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scramble_goggles"
+  }
+}

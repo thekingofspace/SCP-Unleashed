@@ -1,0 +1,41 @@
+{
+  "fallback": "scp_unleashed:scp093/city/street_ends",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/street_plain",
+        "processors": "scp_unleashed:scp093_street_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/street_car",
+        "processors": "scp_unleashed:scp093_street_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/street_rubble",
+        "processors": "scp_unleashed:scp093_street_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/street_cross",
+        "processors": "scp_unleashed:scp093_street_decay",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

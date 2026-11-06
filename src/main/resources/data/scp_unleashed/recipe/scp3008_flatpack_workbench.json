@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_particleboard"
+    },
+    {
+      "item": "scp_unleashed:scp3008_particleboard"
+    },
+    {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    },
+    {
+      "item": "scp_unleashed:scp3008_allen_key"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_flatpack_workbench"
+  }
+}

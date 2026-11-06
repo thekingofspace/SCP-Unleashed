@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:reinforced_glass",
+    "scp_unleashed:reinforced_glass_pane",
+    "scp_unleashed:one_way_glass",
+    "scp_unleashed:smart_one_way_glass",
+    "minecraft:tinted_glass",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine"
+  ]
+}

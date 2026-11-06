@@ -1,0 +1,35 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/copper",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:pipe",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:vent",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:heating_element",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:steam_channel",
+    "count": 1
+  },
+  "time": 400,
+  "power": 1.5
+}

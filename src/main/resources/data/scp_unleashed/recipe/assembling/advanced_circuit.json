@@ -1,0 +1,34 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:circuit_board",
+      "count": 1
+    },
+    {
+      "tag": "c:silicon",
+      "count": 2
+    },
+    {
+      "tag": "c:plates/gold",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/aluminum",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 1
+    },
+    {
+      "tag": "c:dusts/energum",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:advanced_circuit",
+    "count": 1
+  },
+  "time": 240
+}

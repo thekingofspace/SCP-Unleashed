@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "B": {
+      "tag": "c:dyes/blue"
+    }
+  },
+  "pattern": [
+    "L L",
+    "PBP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:goc_boots"
+  }
+}

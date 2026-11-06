@@ -1,0 +1,35 @@
+{
+  "lang": "dossier.scp_unleashed.012",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_012",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp012",
+    "gift": [
+      {
+        "item": "scp_unleashed:sealed_case",
+        "count": 1,
+        "components": {
+          "scp_unleashed:sealed_case_contents": {
+            "id": "scp_unleashed:scp012_composition",
+            "count": 1
+          }
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp012.0",
+      "archive.scp_unleashed.notes.scp012.1"
+    ]
+  }
+}

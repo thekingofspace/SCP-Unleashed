@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "combat",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_cabinet_door"
+    },
+    {
+      "item": "scp_unleashed:scp3008_steel_tube"
+    },
+    {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    },
+    {
+      "item": "scp_unleashed:scp3008_allen_key"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_cabinet_door_shield"
+  }
+}

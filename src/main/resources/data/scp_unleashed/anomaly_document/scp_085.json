@@ -1,0 +1,83 @@
+{
+  "lang": "dossier.scp_unleashed.085",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_085",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp085",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp085_home_sheet",
+        "count": 1
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "room"
+          }
+        }
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "window"
+          }
+        }
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "garden"
+          }
+        }
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "street"
+          }
+        }
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "stairs"
+          }
+        }
+      },
+      {
+        "item": "scp_unleashed:scp085_drawing",
+        "count": 1,
+        "components": {
+          "minecraft:block_state": {
+            "scene": "field"
+          }
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp085.0",
+      "archive.scp_unleashed.notes.scp085.1"
+    ]
+  }
+}

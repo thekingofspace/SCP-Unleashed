@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:scp106_old_man",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp173",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp096_shy_guy",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp999_blob",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp343",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp073_cain",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:stranger_figure",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp009_statue",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp058_heart",
+      "required": false
+    }
+  ]
+}

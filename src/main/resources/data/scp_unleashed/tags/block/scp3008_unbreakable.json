@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_floor",
+    "scp_unleashed:scp3008_floor_line",
+    "scp_unleashed:scp3008_floor_arrow",
+    "scp_unleashed:scp3008_floor_hatch",
+    "scp_unleashed:scp3008_pillar",
+    "scp_unleashed:scp3008_ceiling",
+    "scp_unleashed:scp3008_cable",
+    "scp_unleashed:scp3008_store_light",
+    "scp_unleashed:scp3008_department_sign",
+    "scp_unleashed:scp3008_emergency_light",
+    "scp_unleashed:scp3008_facade",
+    "scp_unleashed:scp3008_facade_sign",
+    "scp_unleashed:scp3008_entrance",
+    "scp_unleashed:scp3008_exit_door",
+    "scp_unleashed:scp3008_exit_sign",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine"
+  ]
+}

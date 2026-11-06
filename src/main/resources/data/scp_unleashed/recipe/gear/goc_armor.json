@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "tag": "c:leathers"
+    },
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "B": {
+      "tag": "c:dyes/blue"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "L L",
+    "PBP",
+    "PWP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:goc_armor"
+  }
+}

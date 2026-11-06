@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:scp3008_cabinet_door"
+    },
+    {
+      "item": "scp_unleashed:scp3008_allen_key"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "scp_unleashed:scp3008_particleboard"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:outlet",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:advanced_outlet",
+    "count": 1
+  },
+  "time": 200
+}

@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:centrifuging",
+  "ingredient": {
+    "tag": "c:sands/colorless"
+  },
+  "results": [
+    {
+      "id": "scp_unleashed:silicon"
+    },
+    {
+      "id": "minecraft:sand",
+      "chance": 0.25
+    }
+  ],
+  "time": 160
+}

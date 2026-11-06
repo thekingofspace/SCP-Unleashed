@@ -1,0 +1,29 @@
+{
+  "lang": "dossier.scp_unleashed.111",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 2,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_111",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "wondertainment",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp111",
+    "gift": [
+      {
+        "item": "scp_unleashed:scp111_box",
+        "count": 1
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp111.0",
+      "archive.scp_unleashed.notes.scp111.1"
+    ]
+  }
+}

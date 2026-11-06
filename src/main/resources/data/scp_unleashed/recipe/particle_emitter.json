@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    }
+  },
+  "pattern": [
+    "IBI",
+    "RVR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:particle_emitter"
+  }
+}

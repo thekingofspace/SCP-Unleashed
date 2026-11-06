@@ -1,0 +1,24 @@
+{
+  "values": [
+    "scp_unleashed:facility_sign_gate_a",
+    "scp_unleashed:facility_sign_gate_b",
+    "scp_unleashed:facility_sign_gate_c",
+    "scp_unleashed:facility_sign_restroom_men",
+    "scp_unleashed:facility_sign_restroom_women",
+    "scp_unleashed:facility_sign_restroom_all_gender",
+    "scp_unleashed:facility_sign_emergency_exit",
+    "scp_unleashed:facility_sign_cafeteria",
+    "scp_unleashed:facility_sign_medical",
+    "scp_unleashed:facility_sign_security_checkpoint",
+    "scp_unleashed:facility_sign_stairs",
+    "scp_unleashed:facility_sign_elevator",
+    "scp_unleashed:facility_sign_light_containment",
+    "scp_unleashed:facility_sign_heavy_containment",
+    "scp_unleashed:facility_sign_entrance_zone",
+    "scp_unleashed:facility_sign_decontamination",
+    "scp_unleashed:facility_sign_server_room",
+    "scp_unleashed:facility_sign_armory",
+    "scp_unleashed:facility_sign_maintenance",
+    "scp_unleashed:facility_sign_evacuation_shelter"
+  ]
+}

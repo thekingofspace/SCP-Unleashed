@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "S": {
+      "item": "scp_unleashed:gun_spring"
+    }
+  },
+  "pattern": [
+    "P",
+    "S",
+    "P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gun_magazine"
+  }
+}

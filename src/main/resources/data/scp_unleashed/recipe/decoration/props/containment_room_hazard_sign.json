@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:decoration",
+  "category": "props",
+  "material": {
+    "item": "scp_unleashed:decorative_material",
+    "count": 1
+  },
+  "extra": {
+    "tag": "c:dyes/red",
+    "count": 1
+  },
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:containment_room_hazard_sign"
+  }
+}

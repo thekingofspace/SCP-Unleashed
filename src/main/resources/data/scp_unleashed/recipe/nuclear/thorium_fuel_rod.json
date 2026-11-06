@@ -1,0 +1,22 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:ingots/thorium",
+      "count": 4
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 2
+    },
+    {
+      "tag": "c:rods/steel",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:thorium_fuel_rod",
+    "count": 1
+  },
+  "time": 400
+}

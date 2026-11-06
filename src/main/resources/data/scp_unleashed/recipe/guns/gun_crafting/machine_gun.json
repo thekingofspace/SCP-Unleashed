@@ -1,0 +1,33 @@
+{
+  "type": "scp_unleashed:gun_crafting",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:gun_receiver",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:heavy_barrel",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:firing_mechanism",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:gun_magazine",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:gun_stock",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 4
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:machine_gun"
+  }
+}

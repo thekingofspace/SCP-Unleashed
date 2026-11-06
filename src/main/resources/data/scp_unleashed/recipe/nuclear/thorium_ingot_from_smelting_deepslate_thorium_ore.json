@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.8,
+  "group": "thorium_ingot",
+  "ingredient": {
+    "item": "scp_unleashed:deepslate_thorium_ore"
+  },
+  "result": {
+    "id": "scp_unleashed:thorium_ingot"
+  }
+}

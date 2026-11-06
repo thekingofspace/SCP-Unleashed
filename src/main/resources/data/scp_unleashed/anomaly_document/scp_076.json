@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.076",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_076",
+  "start_condition": {
+    "type": "scp076_vault",
+    "min_distance": 400,
+    "max_distance": 1200,
+    "accuracy": 32,
+    "arrival": 48
+  }
+}

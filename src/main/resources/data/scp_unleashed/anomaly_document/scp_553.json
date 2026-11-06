@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.553",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_553",
+  "start_condition": {
+    "type": "scp553_cave",
+    "min_distance": 96,
+    "max_distance": 256,
+    "accuracy": 16,
+    "arrival": 32
+  }
+}

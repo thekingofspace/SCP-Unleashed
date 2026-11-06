@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:entity",
+  "random_sequence": "scp_unleashed:entities/scp149_fly",
+  "pools": []
+}

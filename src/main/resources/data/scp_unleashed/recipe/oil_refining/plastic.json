@@ -1,0 +1,17 @@
+{
+  "type": "scp_unleashed:oil_refining",
+  "input": {
+    "fluid": "scp_unleashed:light_oil",
+    "amount": 500
+  },
+  "result": {
+    "id": "scp_unleashed:plastic",
+    "count": 4
+  },
+  "byproduct": {
+    "id": "minecraft:water",
+    "amount": 200
+  },
+  "time": 120,
+  "power": 64
+}

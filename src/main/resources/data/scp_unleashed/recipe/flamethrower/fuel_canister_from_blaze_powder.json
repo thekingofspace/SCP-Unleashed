@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "fuel_canister",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:empty_canister"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:fuel_canister"
+  }
+}

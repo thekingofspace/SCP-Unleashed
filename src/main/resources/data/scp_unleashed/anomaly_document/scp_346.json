@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.346",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_346",
+  "start_condition": {
+    "type": "scp346_flock",
+    "min_delay": 30,
+    "max_delay": 120,
+    "min_distance": 16,
+    "max_distance": 40
+  }
+}

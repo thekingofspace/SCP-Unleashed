@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:scp008_zombie",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp049",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp049_2",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_skitter",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_brute",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_slinger",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_duelist",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_glutton",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_swimmer",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp016_flyer",
+      "required": false
+    }
+  ]
+}

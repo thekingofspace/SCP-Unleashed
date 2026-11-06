@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "P": {
+      "item": "scp_unleashed:pipe"
+    },
+    "S": {
+      "item": "minecraft:piston"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    }
+  },
+  "pattern": [
+    "IPI",
+    "SMS",
+    "IPI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:pipe_pressurizer"
+  }
+}

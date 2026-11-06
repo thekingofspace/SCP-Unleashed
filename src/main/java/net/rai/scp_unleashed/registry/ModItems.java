@@ -1,0 +1,63 @@
+package net.rai.scp_unleashed.registry;
+
+import net.minecraft.world.item.BlockItem;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Rarity;
+import net.neoforged.neoforge.registries.DeferredItem;
+import net.neoforged.neoforge.registries.DeferredRegister;
+import net.rai.scp_unleashed.Scp_unleashed;
+import net.rai.scp_unleashed.item.UpgradeItem;
+import net.rai.scp_unleashed.item.WireCoilItem;
+import net.rai.scp_unleashed.item.WireCutterItem;
+import net.rai.scp_unleashed.upgrade.MufflerUpgradeItem;
+import net.rai.scp_unleashed.upgrade.UpgradeType;
+import net.rai.scp_unleashed.wire.WireTier;
+
+public class ModItems {
+    public static final DeferredRegister.Items ItemRegister = DeferredRegister.createItems(Scp_unleashed.ModId);
+
+    public static final DeferredItem<BlockItem> Outlet = ItemRegister.registerSimpleBlockItem("outlet", ModBlocks.Outlet);
+    public static final DeferredItem<WireCoilItem> WireCoil = ItemRegister.register("wire_coil", () -> new WireCoilItem(WireTier.Coated, new Item.Properties()));
+    public static final DeferredItem<BlockItem> EnergumOre = ItemRegister.registerSimpleBlockItem("energum_ore", ModBlocks.EnergumOre);
+    public static final DeferredItem<BlockItem> EnergumBlock = ItemRegister.registerSimpleBlockItem("energum_block", ModBlocks.EnergumBlock);
+    public static final DeferredItem<Item> EnergumDust = ItemRegister.registerSimpleItem("energum_dust");
+    public static final DeferredItem<BlockItem> ChargedRedstone = ItemRegister.registerSimpleBlockItem("charged_redstone", ModBlocks.ChargedRedstone);
+    public static final DeferredItem<Item> CopperWire = ItemRegister.registerSimpleItem("copper_wire");
+    public static final DeferredItem<BlockItem> CoalGenerator = ItemRegister.registerSimpleBlockItem("coal_generator", ModBlocks.CoalGenerator);
+    public static final DeferredItem<BlockItem> ChargeDisperser = ItemRegister.registerSimpleBlockItem("charge_disperser", ModBlocks.ChargeDisperser);
+    public static final DeferredItem<BlockItem> Battery = ItemRegister.registerSimpleBlockItem("battery", ModBlocks.Battery);
+    public static final DeferredItem<BlockItem> NetworkRouter = ItemRegister.registerSimpleBlockItem("network_router", ModBlocks.NetworkRouter);
+    public static final DeferredItem<BlockItem> RedstoneSender = ItemRegister.registerSimpleBlockItem("redstone_sender", ModBlocks.RedstoneSender);
+    public static final DeferredItem<BlockItem> RedstoneReceiver = ItemRegister.registerSimpleBlockItem("redstone_receiver", ModBlocks.RedstoneReceiver);
+    public static final DeferredItem<BlockItem> Pipe = ItemRegister.registerSimpleBlockItem("pipe", ModBlocks.Pipe);
+    public static final DeferredItem<BlockItem> Vent = ItemRegister.registerSimpleBlockItem("vent", ModBlocks.Vent);
+    public static final DeferredItem<BlockItem> RedstoneConverter = ItemRegister.registerSimpleBlockItem("redstone_converter", ModBlocks.RedstoneConverter);
+    public static final DeferredItem<BlockItem> PortRange = ItemRegister.registerSimpleBlockItem("port_range", ModBlocks.PortRange);
+    public static final DeferredItem<WireCoilItem> AdvancedWire = ItemRegister.register("advanced_wire", () -> new WireCoilItem(WireTier.Advanced, new Item.Properties()));
+    public static final DeferredItem<WireCoilItem> SuperHeavyWire = ItemRegister.register("super_heavy_wire", () -> new WireCoilItem(WireTier.SuperHeavy, new Item.Properties()));
+    public static final DeferredItem<WireCoilItem> UltimateWire = ItemRegister.register("ultimate_wire", () -> new WireCoilItem(WireTier.Ultimate, new Item.Properties()));
+    public static final DeferredItem<WireCoilItem> TetherWire = ItemRegister.register("tether_wire", () -> new WireCoilItem(WireTier.Tether, new Item.Properties()));
+    public static final DeferredItem<WireCutterItem> WireCutter = ItemRegister.register("wire_cutter", () -> new WireCutterItem(new Item.Properties().durability(WireCutterItem.Durability)));
+    public static final DeferredItem<BlockItem> AdvancedOutlet = ItemRegister.registerSimpleBlockItem("advanced_outlet", ModBlocks.AdvancedOutlet);
+    public static final DeferredItem<BlockItem> TetherOutlet = ItemRegister.registerSimpleBlockItem("tether_outlet", ModBlocks.TetherOutlet);
+    public static final DeferredItem<BlockItem> BasicTransfer = ItemRegister.registerSimpleBlockItem("transfer_block", ModBlocks.BasicTransfer);
+    public static final DeferredItem<BlockItem> HeavyTransfer = ItemRegister.registerSimpleBlockItem("heavy_transfer_block", ModBlocks.HeavyTransfer);
+    public static final DeferredItem<BlockItem> UltimateTransfer = ItemRegister.registerSimpleBlockItem("ultimate_transfer_block", ModBlocks.UltimateTransfer);
+    public static final DeferredItem<BlockItem> Breaker = ItemRegister.registerSimpleBlockItem("breaker", ModBlocks.Breaker);
+    public static final DeferredItem<BlockItem> PowerCutoff = ItemRegister.registerSimpleBlockItem("power_cutoff", ModBlocks.PowerCutoff);
+    public static final DeferredItem<BlockItem> PipePressurizer = ItemRegister.registerSimpleBlockItem("pipe_pressurizer", ModBlocks.PipePressurizer);
+    public static final DeferredItem<BlockItem> VentPressurizer = ItemRegister.registerSimpleBlockItem("vent_pressurizer", ModBlocks.VentPressurizer);
+    public static final DeferredItem<BlockItem> MiniTank = ItemRegister.registerSimpleBlockItem("mini_tank", ModBlocks.MiniTank);
+    public static final DeferredItem<BlockItem> Tank = ItemRegister.registerSimpleBlockItem("tank", ModBlocks.Tank);
+    public static final DeferredItem<Item> UpgradeTemplate = ItemRegister.registerSimpleItem("upgrade_template");
+    public static final DeferredItem<UpgradeItem> AutoResetUpgrade = ItemRegister.register("auto_reset_upgrade", () -> new UpgradeItem(UpgradeType.AutoReset, new Item.Properties().stacksTo(16)));
+    public static final DeferredItem<UpgradeItem> SpeedUpgrade = ItemRegister.register("speed_upgrade", () -> new UpgradeItem(UpgradeType.Speed, new Item.Properties().stacksTo(16)));
+    public static final DeferredItem<UpgradeItem> SoundMufflerUpgrade = ItemRegister.register("sound_muffler_upgrade", () -> new MufflerUpgradeItem(new Item.Properties().stacksTo(16)));
+    public static final DeferredItem<BlockItem> PowerSensor = ItemRegister.registerSimpleBlockItem("power_sensor", ModBlocks.PowerSensor);
+    public static final DeferredItem<WireCoilItem> CreativeWire = ItemRegister.register("creative_wire", () -> new WireCoilItem(WireTier.Creative, new Item.Properties().rarity(Rarity.EPIC)));
+    public static final DeferredItem<BlockItem> CreativeEnergySource = ItemRegister.registerSimpleBlockItem("creative_energy_source", ModBlocks.CreativeEnergySource, new Item.Properties().rarity(Rarity.EPIC));
+    public static final DeferredItem<BlockItem> CreativePressurizer = ItemRegister.registerSimpleBlockItem("creative_pressurizer", ModBlocks.CreativePressurizer, new Item.Properties().rarity(Rarity.EPIC));
+    public static final DeferredItem<BlockItem> CreativeTank = ItemRegister.registerSimpleBlockItem("creative_tank", ModBlocks.CreativeTank, new Item.Properties().rarity(Rarity.EPIC));
+    public static final DeferredItem<BlockItem> PipeWallPort = ItemRegister.registerSimpleBlockItem("pipe_wall_port", ModBlocks.PipeWallPort);
+    public static final DeferredItem<BlockItem> VentWallPort = ItemRegister.registerSimpleBlockItem("vent_wall_port", ModBlocks.VentWallPort);
+}

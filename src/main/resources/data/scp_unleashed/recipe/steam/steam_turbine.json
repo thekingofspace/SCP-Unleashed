@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "V": {
+      "item": "scp_unleashed:vent"
+    },
+    "R": {
+      "item": "scp_unleashed:steel_rod"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "C": {
+      "item": "scp_unleashed:copper_coil"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "RMR",
+    "PCP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:steam_turbine"
+  }
+}

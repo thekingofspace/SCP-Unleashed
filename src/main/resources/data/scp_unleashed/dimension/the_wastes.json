@@ -1,0 +1,30 @@
+{
+  "type": "scp_unleashed:the_wastes",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "scp_unleashed:scp902_wastes",
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 50
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 9
+        },
+        {
+          "block": "minecraft:mud",
+          "height": 3
+        }
+      ],
+      "lakes": false,
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}

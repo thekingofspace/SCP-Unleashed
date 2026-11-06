@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "D": {
+      "tag": "c:plates/gold"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "GDG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:sniper_scope"
+  }
+}

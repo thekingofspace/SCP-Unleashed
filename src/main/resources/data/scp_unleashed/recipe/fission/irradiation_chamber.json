@@ -1,0 +1,31 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/copper",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:circuit_board",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:irradiation_chamber",
+    "count": 1
+  },
+  "time": 400,
+  "power": 1.5
+}

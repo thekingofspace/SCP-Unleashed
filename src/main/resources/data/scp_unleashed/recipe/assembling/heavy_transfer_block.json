@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:transfer_block",
+      "count": 1
+    },
+    {
+      "tag": "c:plates/steel",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:super_heavy_wire",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 2
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:heavy_transfer_block",
+    "count": 1
+  },
+  "time": 240
+}

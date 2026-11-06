@@ -1,0 +1,15 @@
+{
+  "lang": "dossier.scp_unleashed.372",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_372",
+  "start_condition": {
+    "type": "scp372_glimpse",
+    "min_delay": 30,
+    "max_delay": 90,
+    "check_interval": 5
+  }
+}

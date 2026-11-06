@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp3008_kitchen_wall_cabinet",
+    "scp_unleashed:scp3008_kitchen_wall_shelf",
+    "scp_unleashed:scp3008_bathroom_mirror_cabinet",
+    "scp_unleashed:scp3008_office_whiteboard",
+    "scp_unleashed:scp3008_lighting_lamp_display",
+    "scp_unleashed:scp3008_electronics_wall_tv",
+    "scp_unleashed:scp3008_electronics_tv_wall",
+    "scp_unleashed:scp3008_electronics_headphone_wall",
+    "scp_unleashed:scp3008_electronics_router_shelf",
+    "scp_unleashed:scp3008_electronics_cable_wall"
+  ]
+}

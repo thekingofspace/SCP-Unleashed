@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "c:nuggets/iron"
+    },
+    "W": {
+      "item": "scp_unleashed:copper_wire"
+    },
+    "B": {
+      "item": "scp_unleashed:circuit_board"
+    },
+    "G": {
+      "item": "scp_unleashed:gold_plate"
+    }
+  },
+  "pattern": [
+    "NWN",
+    "WBW",
+    "NGN"
+  ],
+  "result": {
+    "count": 2,
+    "id": "scp_unleashed:upgrade_template"
+  }
+}

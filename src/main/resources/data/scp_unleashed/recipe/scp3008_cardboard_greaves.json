@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "K": {
+      "item": "scp_unleashed:scp3008_cardboard"
+    },
+    "S": {
+      "item": "scp_unleashed:scp3008_fabric_scraps"
+    }
+  },
+  "pattern": [
+    "KKK",
+    "S S",
+    "K K"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_cardboard_greaves"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "lang": "dossier.scp_unleashed.538",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_538",
+  "start_condition": {
+    "type": "stranger_encounter",
+    "stranger": "foundation",
+    "min_delay": 60,
+    "max_delay": 300,
+    "min_distance": 12,
+    "max_distance": 24,
+    "linger": 180,
+    "dialogue": "stranger.scp_unleashed.scp538",
+    "gift": [
+      {
+        "item": "scp_unleashed:transfer_pod",
+        "count": 1,
+        "components": {
+          "scp_unleashed:transfer_pod_contents": "scp_unleashed:scp538"
+        }
+      }
+    ],
+    "notes": [
+      "archive.scp_unleashed.notes.scp538.0",
+      "archive.scp_unleashed.notes.scp538.1"
+    ]
+  }
+}

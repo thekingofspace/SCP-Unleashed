@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "R": {
+      "item": "scp_unleashed:iron_rod"
+    }
+  },
+  "pattern": [
+    " P ",
+    "KRK",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:electric_motor"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.5001",
+  "classification": "thaumiel",
+  "added": "0.0.5",
+  "danger": 5,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_5001",
+  "start_condition": {
+    "type": "scp5001_facility",
+    "min_distance": 900,
+    "max_distance": 2400,
+    "accuracy": 48,
+    "arrival": 64
+  }
+}

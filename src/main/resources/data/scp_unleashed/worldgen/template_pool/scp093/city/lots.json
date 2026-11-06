@@ -1,0 +1,113 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_shop",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_shop_vial",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_house",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_apartment",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_tower",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_garage",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_rubble",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_car",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_collapsed",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_poles",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_red_shack",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scp_unleashed:scp093/city/lot_tin_shack",
+        "processors": "scp_unleashed:scp093_ruin_decay",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

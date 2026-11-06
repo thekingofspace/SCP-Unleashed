@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": {
+      "item": "scp_unleashed:scp3008_hex_fittings"
+    },
+    "P": {
+      "item": "scp_unleashed:scp3008_particleboard"
+    },
+    "T": {
+      "item": "scp_unleashed:scp3008_steel_tube"
+    },
+    "K": {
+      "item": "scp_unleashed:scp3008_allen_key"
+    }
+  },
+  "pattern": [
+    "FPF",
+    "TKT",
+    "FPF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp3008_shelf_tall"
+  }
+}

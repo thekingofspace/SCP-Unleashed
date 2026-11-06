@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "key": {
+    "W": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "pattern": [
+    "WIW",
+    "WGW",
+    "SGS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:scp093_mirror"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "entity",
+  "entity": "scp_unleashed:dclass",
+  "price": 150,
+  "pod": "faint",
+  "icon": "scp_unleashed:dclass_spawn_egg",
+  "description": {
+    "translate": "shop.scp_unleashed.dclass.description"
+  },
+  "order": 10
+}

@@ -1,0 +1,26 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:insulation_sheet",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:capacitor",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:superconductor_coil",
+    "count": 1
+  },
+  "time": 320
+}

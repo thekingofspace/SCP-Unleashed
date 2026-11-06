@@ -1,0 +1,113 @@
+{
+  "replace": false,
+  "values": [
+    "scp_unleashed:scp001_day_crawler",
+    "scp_unleashed:scp001_day_clinger",
+    "scp_unleashed:scp001_day_lurker",
+    "scp_unleashed:scp001_day_mass",
+    {
+      "id": "scp_unleashed:scp610_apostle",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_spewer",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_villager",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_pig",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_cow",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_sheep",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_chicken",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_horse",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_crawler",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_shambler",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_hulk",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_amalgam",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_colossus",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_herald",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_tendril_worm",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_hive_lord",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_tender",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_weaver",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_harvester",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_burrower",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_spore_bearer",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_brood_sac",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_siege_brute",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_stalker",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_spitter",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp610_matriarch",
+      "required": false
+    }
+  ]
+}

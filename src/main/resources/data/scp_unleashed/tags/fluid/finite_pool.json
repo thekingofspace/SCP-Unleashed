@@ -1,0 +1,18 @@
+{
+  "values": [
+    "scp_unleashed:oil",
+    "scp_unleashed:flowing_oil",
+    "scp_unleashed:light_oil",
+    "scp_unleashed:flowing_light_oil",
+    "scp_unleashed:heavy_oil",
+    "scp_unleashed:flowing_heavy_oil",
+    "scp_unleashed:light_fuel",
+    "scp_unleashed:flowing_light_fuel",
+    "scp_unleashed:heavy_fuel",
+    "scp_unleashed:flowing_heavy_fuel",
+    "scp_unleashed:scp354_red",
+    "scp_unleashed:scp354_red_flowing",
+    "scp_unleashed:sulfuric_acid",
+    "scp_unleashed:flowing_sulfuric_acid"
+  ]
+}

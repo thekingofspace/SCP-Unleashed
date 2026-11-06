@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "K": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "PKP",
+    "K K",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:broken_god_greaves"
+  }
+}

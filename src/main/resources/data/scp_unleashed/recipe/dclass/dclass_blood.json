@@ -1,0 +1,16 @@
+{
+  "type": "scp_unleashed:dclass_blood",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "scp_unleashed:dclass_blood_meats"
+    },
+    {
+      "item": "scp_unleashed:lab_vial"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:dclass_blood"
+  }
+}

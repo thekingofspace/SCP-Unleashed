@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.131",
+  "classification": "safe",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_131",
+  "start_condition": {
+    "type": "scp131_arrival",
+    "min_delay": 60,
+    "max_delay": 150,
+    "min_distance": 12,
+    "max_distance": 24
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "lang": "dossier.scp_unleashed.179",
+  "classification": "thaumiel",
+  "added": "0.0.5",
+  "danger": 1,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_179",
+  "start_condition": {
+    "type": "scp179_coordinator"
+  }
+}

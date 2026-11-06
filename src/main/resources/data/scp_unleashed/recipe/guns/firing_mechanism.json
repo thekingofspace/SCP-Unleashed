@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:gun_spring"
+    },
+    "N": {
+      "tag": "c:nuggets/steel"
+    },
+    "P": {
+      "tag": "c:plates/iron"
+    },
+    "R": {
+      "tag": "c:rods/steel"
+    }
+  },
+  "pattern": [
+    " S ",
+    "NPN",
+    " R "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:firing_mechanism"
+  }
+}

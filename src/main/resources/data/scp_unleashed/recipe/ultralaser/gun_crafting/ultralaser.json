@@ -1,0 +1,33 @@
+{
+  "type": "scp_unleashed:gun_crafting",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:particle_disruptor",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:meteoric_plate",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:disruptor_core",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_severe",
+      "count": 2
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:ultralaser"
+  }
+}

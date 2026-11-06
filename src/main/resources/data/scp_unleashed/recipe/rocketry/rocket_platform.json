@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "L": {
+      "tag": "c:plates/steel"
+    },
+    "M": {
+      "item": "scp_unleashed:electric_motor"
+    },
+    "P": {
+      "item": "scp_unleashed:pipe"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "O": {
+      "item": "scp_unleashed:outlet"
+    },
+    "S": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "T": {
+      "item": "scp_unleashed:tank"
+    }
+  },
+  "pattern": [
+    "LML",
+    "PAO",
+    "STS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:rocket_platform"
+  }
+}

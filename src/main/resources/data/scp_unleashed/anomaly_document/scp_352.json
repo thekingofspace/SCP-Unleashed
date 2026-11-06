@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.352",
+  "classification": "keter",
+  "added": "0.0.5",
+  "danger": 4,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_352",
+  "start_condition": {
+    "type": "scp352_wander",
+    "min_delay": 60,
+    "max_delay": 180,
+    "min_distance": 40,
+    "max_distance": 80
+  }
+}

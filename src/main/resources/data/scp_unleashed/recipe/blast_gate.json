@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": {
+      "tag": "c:storage_blocks/iron"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "D": {
+      "item": "scp_unleashed:sliding_door"
+    },
+    "K": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "BYB",
+    "PDP",
+    "BKB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:blast_gate"
+  }
+}

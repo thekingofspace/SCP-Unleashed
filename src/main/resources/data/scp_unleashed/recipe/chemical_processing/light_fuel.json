@@ -1,0 +1,13 @@
+{
+  "type": "scp_unleashed:chemical_processing",
+  "input": {
+    "fluid": "scp_unleashed:light_oil",
+    "amount": 250
+  },
+  "result": {
+    "id": "scp_unleashed:light_fuel",
+    "amount": 250
+  },
+  "time": 40,
+  "power": 64
+}

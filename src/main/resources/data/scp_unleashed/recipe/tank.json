@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "scp_unleashed:steel_plate"
+    },
+    "M": {
+      "item": "scp_unleashed:mini_tank"
+    }
+  },
+  "pattern": [
+    "SMS",
+    "M M",
+    "SMS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:tank"
+  }
+}

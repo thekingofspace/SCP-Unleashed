@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:scp3008_plywood"
+    },
+    "S": {
+      "item": "scp_unleashed:scp3008_plywood_strip"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "PSP"
+  ],
+  "result": {
+    "count": 3,
+    "id": "scp_unleashed:scp3008_plywood_fence"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "tag": "c:strings"
+    },
+    "R": {
+      "item": "scp_unleashed:rubber"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "C": {
+      "tag": "c:dusts/carbon"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "GRG",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:gas_mask"
+  }
+}

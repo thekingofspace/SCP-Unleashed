@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:iron_plate"
+    },
+    "K": {
+      "item": "scp_unleashed:copper_coil"
+    },
+    "C": {
+      "item": "scp_unleashed:charged_redstone"
+    }
+  },
+  "pattern": [
+    "PKP",
+    "KCK",
+    "PKP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:charge_disperser"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:beds",
+    {
+      "id": "scp_unleashed:lcz_cell_bunk",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:hospital_bed",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp3008_bedroom_double_bed",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp3008_bedroom_single_bed",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp3008_children_bunk_bed",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_sleep_pod",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_bunk_frame",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_rest_cradle",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_med_cot",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_bedroll",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp5001_hab_med_bed_scanner",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:scp1730_gurney",
+      "required": false
+    }
+  ]
+}

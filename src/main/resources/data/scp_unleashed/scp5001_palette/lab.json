@@ -1,0 +1,182 @@
+{
+  "roles": {
+    "lab_bench": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_bench",
+          "weight": 4
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_bench_console",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_bench_dish",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_bench_basin",
+          "weight": 2
+        }
+      ]
+    },
+    "lab_wall_unit": {
+      "kind": "wall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_wall_cabinet",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_wall_sterilizer",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_wall_display",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_wall_vial_shelf",
+          "weight": 2
+        }
+      ]
+    },
+    "specimen_tank": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_specimen_tank",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_specimen_tank_violet",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_specimen_tank_drained",
+          "weight": 1
+        }
+      ]
+    },
+    "sample_rack": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_sample_rack",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_sample_carousel",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_cryo_vault",
+          "weight": 2
+        }
+      ]
+    },
+    "analysis_machine": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_analysis_column",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_centrifuge",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_spectral_array",
+          "weight": 2
+        }
+      ]
+    },
+    "scope_station": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_holo_scope",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_scanner_ring",
+          "weight": 2
+        }
+      ]
+    },
+    "fume_hood": {
+      "kind": "floor_tall",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_fume_hood",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_isolation_hood",
+          "weight": 2
+        }
+      ]
+    },
+    "lab_cart": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_hover_cart",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_instrument_cart",
+          "weight": 2
+        }
+      ]
+    },
+    "lab_clutter": {
+      "kind": "floor",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_data_slates",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_tool_tray",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_vial_case",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_canisters",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_specimen_jar",
+          "weight": 1
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_dish_stack",
+          "weight": 2
+        }
+      ]
+    },
+    "lab_ceiling": {
+      "kind": "ceiling",
+      "entries": [
+        {
+          "block": "scp_unleashed:scp5001_lab_ceiling_light",
+          "weight": 3
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_ceiling_arm",
+          "weight": 2
+        },
+        {
+          "block": "scp_unleashed:scp5001_lab_ceiling_scanner",
+          "weight": 2
+        }
+      ]
+    }
+  }
+}

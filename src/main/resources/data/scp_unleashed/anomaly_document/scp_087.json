@@ -1,0 +1,16 @@
+{
+  "lang": "dossier.scp_unleashed.087",
+  "classification": "euclid",
+  "added": "0.0.5",
+  "danger": 3,
+  "spawn": "once",
+  "weight": 1.0,
+  "photo": "scp_unleashed:gui/archive/photo/scp_087",
+  "start_condition": {
+    "type": "scp087_stairwell",
+    "min_distance": 160,
+    "max_distance": 320,
+    "accuracy": 24,
+    "arrival": 48
+  }
+}

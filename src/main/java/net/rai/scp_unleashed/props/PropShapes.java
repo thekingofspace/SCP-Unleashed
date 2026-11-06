@@ -1,0 +1,84 @@
+package net.rai.scp_unleashed.props;
+
+import net.minecraft.core.Direction;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.state.properties.AttachFace;
+import net.minecraft.world.phys.AABB;
+import net.minecraft.world.phys.shapes.Shapes;
+import net.minecraft.world.phys.shapes.VoxelShape;
+
+import java.util.EnumMap;
+import java.util.Map;
+
+public final class PropShapes {
+    private PropShapes() {
+    }
+
+    public static VoxelShape box(double MinX, double MinY, double MinZ, double MaxX, double MaxY, double MaxZ) {
+        return Block.box(MinX, MinY, MinZ, MaxX, MaxY, MaxZ);
+    }
+
+    public static VoxelShape of(VoxelShape... Parts) {
+        VoxelShape Shape = Shapes.empty();
+        for (VoxelShape Part : Parts) {
+            Shape = Shapes.or(Shape, Part);
+        }
+        return Shape.optimize();
+    }
+
+    public static int quarterTurns(Direction Facing) {
+        return switch (Facing) {
+            case EAST -> 1;
+            case SOUTH -> 2;
+            case WEST -> 3;
+            default -> 0;
+        };
+    }
+
+    public static VoxelShape turn(VoxelShape North, Direction Facing) {
+        int Turns = quarterTurns(Facing);
+        if (Turns == 0) {
+            return North;
+        }
+        VoxelShape Result = Shapes.empty();
+        for (AABB Box : North.toAabbs()) {
+            double MinX = Box.minX;
+            double MaxX = Box.maxX;
+            double MinZ = Box.minZ;
+            double MaxZ = Box.maxZ;
+            for (int Step = 0; Step < Turns; Step++) {
+                double TurnedMinX = 1.0 - MaxZ;
+                double TurnedMaxX = 1.0 - MinZ;
+                MinZ = MinX;
+                MaxZ = MaxX;
+                MinX = TurnedMinX;
+                MaxX = TurnedMaxX;
+            }
+            Result = Shapes.or(Result, Shapes.box(MinX, Box.minY, MinZ, MaxX, Box.maxY, MaxZ));
+        }
+        return Result.optimize();
+    }
+
+    public static Map<Direction, VoxelShape> horizontal(VoxelShape North) {
+        Map<Direction, VoxelShape> Result = new EnumMap<>(Direction.class);
+        for (Direction Side : Direction.Plane.HORIZONTAL) {
+            Result.put(Side, turn(North, Side));
+        }
+        return Result;
+    }
+
+    public static VoxelShape attached(VoxelShape Floor, AttachFace Face, Direction Facing) {
+        if (Face == AttachFace.FLOOR) {
+            return turn(Floor, Facing);
+        }
+        VoxelShape Tipped = Shapes.empty();
+        for (AABB Box : Floor.toAabbs()) {
+            if (Face == AttachFace.WALL) {
+                Tipped = Shapes.or(Tipped, Shapes.box(Box.minX, Box.minZ, 1.0 - Box.maxY, Box.maxX, Box.maxZ, 1.0 - Box.minY));
+            } else {
+                Tipped = Shapes.or(Tipped, Shapes.box(Box.minX, 1.0 - Box.maxY, 1.0 - Box.maxZ, Box.maxX, 1.0 - Box.minY, 1.0 - Box.minZ));
+            }
+        }
+        return turn(Tipped.optimize(), Face == AttachFace.CEILING ? Facing.getOpposite() : Facing);
+    }
+}

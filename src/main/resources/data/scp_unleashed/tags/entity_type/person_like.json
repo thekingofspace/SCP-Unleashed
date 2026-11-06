@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "scp_unleashed:dclass",
+      "required": false
+    },
+    {
+      "id": "scp_unleashed:theodore",
+      "required": false
+    },
+    "scp_unleashed:player_clone",
+    "scp_unleashed:mtf_operative"
+  ]
+}

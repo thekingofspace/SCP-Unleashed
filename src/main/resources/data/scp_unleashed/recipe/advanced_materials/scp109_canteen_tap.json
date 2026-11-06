@@ -1,0 +1,27 @@
+{
+  "type": "scp_unleashed:advanced_materials",
+  "ingredients": [
+    {
+      "tag": "c:plates/steel",
+      "count": 6
+    },
+    {
+      "item": "scp_unleashed:pipe",
+      "count": 4
+    },
+    {
+      "item": "scp_unleashed:rubber",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:scp109_canteen_tap",
+    "count": 1
+  },
+  "time": 300,
+  "power": 1.0
+}

@@ -1,0 +1,23 @@
+{
+  "type": "scp_unleashed:advanced_materials",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/iron",
+      "count": 1
+    },
+    {
+      "item": "scp_unleashed:copper_coil",
+      "count": 2
+    },
+    {
+      "tag": "c:dusts/redstone",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:magnetized_block",
+    "count": 4
+  },
+  "time": 200,
+  "power": 1.0
+}

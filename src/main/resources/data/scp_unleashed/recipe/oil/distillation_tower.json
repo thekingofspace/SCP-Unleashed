@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "tag": "c:plates/steel"
+    },
+    "K": {
+      "item": "scp_unleashed:pipe"
+    },
+    "H": {
+      "item": "scp_unleashed:heating_element"
+    },
+    "A": {
+      "item": "scp_unleashed:advanced_circuit"
+    },
+    "S": {
+      "tag": "c:storage_blocks/steel"
+    }
+  },
+  "pattern": [
+    "PKP",
+    "HAH",
+    "SKS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "scp_unleashed:distillation_tower"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "P": {
+      "item": "scp_unleashed:scp3008_plywood"
+    },
+    "C": {
+      "item": "scp_unleashed:scp3008_cold_brew"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PCP",
+    "PPP"
+  ],
+  "result": {
+    "count": 8,
+    "id": "scp_unleashed:scp3008_plywood_dark_veneer"
+  }
+}

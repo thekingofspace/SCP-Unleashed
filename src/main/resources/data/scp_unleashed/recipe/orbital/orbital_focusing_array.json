@@ -1,0 +1,47 @@
+{
+  "type": "scp_unleashed:assembling",
+  "ingredients": [
+    {
+      "item": "scp_unleashed:reinforced_glass",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:meteoric_plate",
+      "count": 12
+    },
+    {
+      "item": "scp_unleashed:unstable_fragment_abyssal",
+      "count": 2
+    },
+    {
+      "item": "scp_unleashed:superconductor_coil",
+      "count": 8
+    },
+    {
+      "item": "scp_unleashed:advanced_circuit",
+      "count": 8
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 8
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 32
+    },
+    {
+      "tag": "c:plates/gold",
+      "count": 16
+    },
+    {
+      "item": "scp_unleashed:energum_alloy_ingot",
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "scp_unleashed:orbital_focusing_array",
+    "count": 1
+  },
+  "time": 4000,
+  "power": 10.0
+}

@@ -1,0 +1,11 @@
+{
+  "type": "scp_unleashed:irradiating",
+  "ingredient": {
+    "item": "scp_unleashed:energum_dust"
+  },
+  "result": {
+    "id": "scp_unleashed:reactive_material",
+    "count": 1
+  },
+  "time": 600
+}

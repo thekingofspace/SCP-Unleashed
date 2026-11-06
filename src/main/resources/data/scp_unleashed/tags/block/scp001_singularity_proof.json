@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bedrock",
+    "minecraft:barrier",
+    "minecraft:light",
+    "minecraft:command_block",
+    "minecraft:chain_command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:structure_block",
+    "minecraft:jigsaw",
+    "minecraft:end_portal_frame",
+    "minecraft:end_portal",
+    "minecraft:end_gateway",
+    "minecraft:reinforced_deepslate",
+    "scp_unleashed:scp148_block",
+    "scp_unleashed:scp148_semantic_blocker",
+    "scp_unleashed:scp079_computer",
+    "scp_unleashed:forcefield_barrier",
+    "scp_unleashed:scp093_return_mirror",
+    "scp_unleashed:scp205_glow",
+    "scp_unleashed:creative_energy_source",
+    "scp_unleashed:creative_pressurizer",
+    "scp_unleashed:creative_tank",
+    "scp_unleashed:creative_outlet",
+    "scp_unleashed:scp3199_egg",
+    "scp_unleashed:scp5001_shell",
+    "scp_unleashed:scp5001_entry_door",
+    "scp_unleashed:scp5001_engine"
+  ]
+}
